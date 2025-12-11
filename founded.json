@@ -1,600 +1,600 @@
 [
   {
-    "Company": "Berkshire Hathaway Inc",
+    "CompanyName": "Berkshire Hathaway Inc",
     "Investor": "Warren Buffett",
     "Founded": "1839 (as Berkshire Cotton Manufacturing; modern conglomerate under Buffett from 1965)",
     "Headquarters": "Omaha, Nebraska, USA (3555 Farnam Street)"
   },
   {
-    "Company": "Daily Journal Corp",
+    "CompanyName": "Daily Journal Corp",
     "Investor": "Charlie Munger",
     "Founded": "1888",
     "Headquarters": "Los Angeles, California, USA"
   },
   {
-    "Company": "Himalaya Capital Management LLC",
+    "CompanyName": "Himalaya Capital Management LLC",
     "Investor": "Li Lu",
     "Founded": "1997 (management entity dates to late 1990s)",
     "Headquarters": "Seattle, Washington, USA"
   },
   {
-    "Company": "Dalal Street, LLC",
+    "CompanyName": "Dalal Street, LLC",
     "Investor": "Mohnish Pabrai",
     "Founded": "Mid‑2000s (commonly cited 2007; small private firm, exact formation year not clearly disclosed in public filings)",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Gotham Asset Management, LLC",
+    "CompanyName": "Gotham Asset Management, LLC",
     "Investor": "Joel Greenblatt",
     "Founded": "2009 (successor to Gotham Capital, founded 1985)",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Oaktree Capital Management LP",
+    "CompanyName": "Oaktree Capital Management LP",
     "Investor": "Howard Marks",
     "Founded": "1995",
     "Headquarters": "Los Angeles, California, USA"
   },
   {
-    "Company": "Bridgewater Associates, LP",
+    "CompanyName": "Bridgewater Associates, LP",
     "Investor": "Ray Dalio",
     "Founded": "1975",
     "Headquarters": "Westport, Connecticut, USA"
   },
   {
-    "Company": "Pershing Square Capital Management, L.P.",
+    "CompanyName": "Pershing Square Capital Management, L.P.",
     "Investor": "Bill Ackman",
     "Founded": "2004",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Appaloosa LP",
+    "CompanyName": "Appaloosa LP",
     "Investor": "David Tepper",
     "Founded": "1993",
     "Headquarters": "Short Hills, New Jersey, USA"
   },
   {
-    "Company": "CAS Investment Partners, LLC",
+    "CompanyName": "CAS Investment Partners, LLC",
     "Investor": "Clifford Sosin",
     "Founded": "2014",
     "Headquarters": "Greenwich, Connecticut, USA"
   },
   {
-    "Company": "Akre Capital Management LLC",
+    "CompanyName": "Akre Capital Management LLC",
     "Investor": "Chuck Akre",
     "Founded": "1989",
     "Headquarters": "Middleburg, Virginia, USA"
   },
   {
-    "Company": "Scion Asset Management, LLC",
+    "CompanyName": "Scion Asset Management, LLC",
     "Investor": "Michael Burry",
     "Founded": "2013",
     "Headquarters": "Saratoga, California, USA"
   },
   {
-    "Company": "Semper Augustus Investments Group LLC",
+    "CompanyName": "Semper Augustus Investments Group LLC",
     "Investor": "Christopher Bloomstran",
     "Founded": "1998",
     "Headquarters": "Denver, Colorado, USA"
   },
   {
-    "Company": "Aquamarine Capital Management, LLC",
+    "CompanyName": "Aquamarine Capital Management, LLC",
     "Investor": "Guy Spier",
     "Founded": "1997",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "RV Capital AG",
+    "CompanyName": "RV Capital AG",
     "Investor": "Robert Vinall",
     "Founded": "2006",
     "Headquarters": "Pfäffikon, Switzerland (Schwyz)"
   },
   {
-    "Company": "Greenlea Lane Capital Management, LLC",
+    "CompanyName": "Greenlea Lane Capital Management, LLC",
     "Investor": "Josh Tarasoff",
     "Founded": "2010",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Alta Fox Capital Management, LLC",
+    "CompanyName": "Alta Fox Capital Management, LLC",
     "Investor": "Connor Haley",
     "Founded": "2018",
     "Headquarters": "Fort Worth, Texas, USA"
   },
   {
-    "Company": "Shawspring Partners LLC",
+    "CompanyName": "Shawspring Partners LLC",
     "Investor": "Dennis Hong",
     "Founded": "2013",
     "Headquarters": "Toronto, Ontario, Canada"
   },
   {
-    "Company": "Van Den Berg Management I, Inc",
+    "CompanyName": "Van Den Berg Management I, Inc",
     "Investor": "Arnold Van Den Berg",
     "Founded": "1974",
     "Headquarters": "Dallas, Texas, USA"
   },
   {
-    "Company": "Punch Card Management L.P.",
+    "CompanyName": "Punch Card Management L.P.",
     "Investor": "Norbert Lou",
     "Founded": "2013",
     "Headquarters": "Chicago, Illinois, USA"
   },
   {
-    "Company": "Fundsmith LLP",
+    "CompanyName": "Fundsmith LLP",
     "Investor": "Terry Smith",
     "Founded": "2010",
     "Headquarters": "33 Cavendish Square, London, UK"
   },
   {
-    "Company": "Tudor Investment Corp et al",
+    "CompanyName": "Tudor Investment Corp et al",
     "Investor": "Paul Tudor Jones",
     "Founded": "1980",
     "Headquarters": "200 Elm St, Stamford, CT, USA"
   },
   {
-    "Company": "Maverick Capital Ltd",
+    "CompanyName": "Maverick Capital Ltd",
     "Investor": "Lee Ainslie",
     "Founded": "2004",
     "Headquarters": "1900 N. Pearl Street, Dallas, TX, USA"
   },
   {
-    "Company": "Conifer Management, L.L.C.",
+    "CompanyName": "Conifer Management, L.L.C.",
     "Investor": "Greg Alexander",
     "Founded": "2000",
     "Headquarters": "45 Rockefeller Plaza, New York, NY, USA"
   },
   {
-    "Company": "Soros Fund Management LLC",
+    "CompanyName": "Soros Fund Management LLC",
     "Investor": "George Soros",
     "Founded": "1973",
     "Headquarters": "888 Seventh Avenue, New York, NY, USA"
   },
   {
-    "Company": "Davis Selected Advisers",
+    "CompanyName": "Davis Selected Advisers",
     "Investor": "Chris Davis",
     "Founded": "1969",
     "Headquarters": "2949 E Elvira Rd, Tucson, AZ, USA"
   },
   {
-    "Company": "Renaissance Technologies LLC",
+    "CompanyName": "Renaissance Technologies LLC",
     "Investor": "Jim Simons",
     "Founded": "1982",
     "Headquarters": "600 Route 25A, East Setauket, NY, USA"
   },
   {
-    "Company": "Baupost Group LLC/MA",
+    "CompanyName": "Baupost Group LLC/MA",
     "Investor": "Seth Klarman",
     "Founded": "1982",
     "Headquarters": "10 Saint James Ave, Boston, MA, USA"
   },
   {
-    "Company": "Greenlight Capital Inc",
+    "CompanyName": "Greenlight Capital Inc",
     "Investor": "David Einhorn",
     "Founded": "1996",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Miller Value Partners, Llc",
+    "CompanyName": "Miller Value Partners, Llc",
     "Investor": "Bill Miller",
     "Founded": "1999",
     "Headquarters": "Sarasota, Florida, USA"
   },
   {
-    "Company": "Bill & Melinda Gates Foundation Trust",
+    "CompanyName": "Bill & Melinda Gates Foundation Trust",
     "Investor": "Bill Gates",
     "Founded": "2000",
     "Headquarters": "Seattle, Washington, USA"
   },
   {
-    "Company": "Duquesne Family Office Llc",
+    "CompanyName": "Duquesne Family Office Llc",
     "Investor": "Stanley Druckenmiller",
     "Founded": "2010",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Egerton Capital (uk) Llp",
+    "CompanyName": "Egerton Capital (uk) Llp",
     "Investor": "John Armitage",
     "Founded": "1994",
     "Headquarters": "London, United Kingdom"
   },
   {
-    "Company": "Strategy Capital Llc",
+    "CompanyName": "Strategy Capital Llc",
     "Investor": "Hamilton Helmer",
     "Founded": "2013",
     "Headquarters": "Los Altos, California, USA"
   },
   {
-    "Company": "Giverny Capital Inc.",
+    "CompanyName": "Giverny Capital Inc.",
     "Investor": "Francois Rochon",
     "Founded": "1998",
     "Headquarters": "Montréal, Québec, Canada"
   },
   {
-    "Company": "Turtle Creek Asset Management Inc.",
+    "CompanyName": "Turtle Creek Asset Management Inc.",
     "Investor": "Andrew Brenton",
     "Founded": "1998",
     "Headquarters": "Toronto, Ontario, Canada"
   },
   {
-    "Company": "Dorsey Asset Management, Llc",
+    "CompanyName": "Dorsey Asset Management, Llc",
     "Investor": "Pat Dorsey",
     "Founded": "2013",
     "Headquarters": "Chicago, Illinois, USA"
   },
   {
-    "Company": "Tci Fund Management Ltd",
+    "CompanyName": "Tci Fund Management Ltd",
     "Investor": "Chris Hohn",
     "Founded": "2003",
     "Headquarters": "London, United Kingdom"
   },
   {
-    "Company": "Chou Associates Management Inc.",
+    "CompanyName": "Chou Associates Management Inc.",
     "Investor": "Francis Chou",
     "Founded": "1981",
     "Headquarters": "Toronto, Ontario, Canada"
   },
   {
-    "Company": "Abrams Capital Management, L.p.",
+    "CompanyName": "Abrams Capital Management, L.p.",
     "Investor": "David Abrams",
     "Founded": "1999",
     "Headquarters": "Boston, Massachusetts, USA"
   },
   {
-    "Company": "Markel Group Inc.",
+    "CompanyName": "Markel Group Inc.",
     "Investor": "Thomas Gayner",
     "Founded": "1930 (as Markel Service, later Markel Corporation/Group)",
     "Headquarters": "Richmond / Glen Allen, Virginia, USA"
   },
   {
-    "Company": "Fairfax Financial Holdings Ltd (Can)",
+    "CompanyName": "Fairfax Financial Holdings Ltd (Can)",
     "Investor": "Prem Watsa",
     "Founded": "1985 (current Fairfax structure)",
     "Headquarters": "Toronto, Ontario, Canada"
   },
   {
-    "Company": "Icahn Carl C (Icahn Enterprises structure)",
+    "CompanyName": "Icahn Carl C (Icahn Enterprises structure)",
     "Investor": "Carl Icahn",
     "Founded": "1985 (Icahn’s main investment vehicle traces to the mid‑1980s; Icahn Enterprises L.P. in current form dates to 1987)",
     "Headquarters": "Sunny Isles Beach, Florida, USA (Icahn Enterprises HQ)"
   },
   {
-    "Company": "Gardner Russo & Quinn LLC",
+    "CompanyName": "Gardner Russo & Quinn LLC",
     "Investor": "Tom Russo",
     "Founded": "1968 (earliest predecessor; reorganized as Gardner Russo & Quinn LLC in 2021)",
     "Headquarters": "Lancaster, Pennsylvania, USA"
   },
   {
-    "Company": "Tiger Global Management LLC",
+    "CompanyName": "Tiger Global Management LLC",
     "Investor": "Chase Coleman",
     "Founded": "2001",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Dodge & Cox",
+    "CompanyName": "Dodge & Cox",
     "Investor": "Van Duyn Dodge & E. Morris Cox",
     "Founded": "1930",
     "Headquarters": "San Francisco, California, USA"
   },
   {
-    "Company": "Tweedy, Browne Co. LLC",
+    "CompanyName": "Tweedy, Browne Co. LLC",
     "Investor": "Bill Tweedy & Christopher Browne",
     "Founded": "1920 (as a broker; became investment adviser later)",
     "Headquarters": "Stamford, Connecticut, USA"
   },
   {
-    "Company": "Third Point LLC",
+    "CompanyName": "Third Point LLC",
     "Investor": "Daniel Loeb",
     "Founded": "1995",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Fairholme Capital Management LLC",
+    "CompanyName": "Fairholme Capital Management LLC",
     "Investor": "Bruce Berkowitz",
     "Founded": "1997",
     "Headquarters": "Miami, Florida, USA"
   },
   {
-    "Company": "Fisher Asset Management, LLC",
+    "CompanyName": "Fisher Asset Management, LLC",
     "Investor": "Ken Fisher",
     "Founded": "1979",
     "Headquarters": "Camas, Washington, USA (greater Portland area)"
   },
   {
-    "Company": "GAMCO Investors, Inc. et al",
+    "CompanyName": "GAMCO Investors, Inc. et al",
     "Investor": "Mario Gabelli",
     "Founded": "1977 (as Gabelli & Co.; GAMCO Investors name adopted later)",
     "Headquarters": "Rye, New York, USA"
   },
   {
-    "Company": "Southeastern Asset Management Inc/ TN",
+    "CompanyName": "Southeastern Asset Management Inc/ TN",
     "Investor": "Mason Hawkins",
     "Founded": "1975",
     "Headquarters": "Memphis, Tennessee, USA"
   },
   {
-    "Company": "Sound Shore Management Inc /CT/",
+    "CompanyName": "Sound Shore Management Inc /CT/",
     "Investor": "Harry Burn",
     "Founded": "1978",
     "Headquarters": "Greenwich, Connecticut, USA"
   },
   {
-    "Company": "Greenhaven Associates Inc",
+    "CompanyName": "Greenhaven Associates Inc",
     "Investor": "Edgar Wachenheim III",
     "Founded": "1982",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Wedgewood Partners Inc",
+    "CompanyName": "Wedgewood Partners Inc",
     "Investor": "David Rolfe",
     "Founded": "1988",
     "Headquarters": "St. Louis, Missouri, USA"
   },
   {
-    "Company": "Capital Growth Management LP",
+    "CompanyName": "Capital Growth Management LP",
     "Investor": "Ken Heebner",
     "Founded": "1990",
     "Headquarters": "Boston, Massachusetts, USA"
   },
   {
-    "Company": "Weitz Investment Management, Inc.",
+    "CompanyName": "Weitz Investment Management, Inc.",
     "Investor": "Wallace Weitz",
     "Founded": "1983",
     "Headquarters": "Omaha, Nebraska, USA"
   },
   {
-    "Company": "Yacktman Asset Management LP",
+    "CompanyName": "Yacktman Asset Management LP",
     "Investor": "Donald Yacktman",
     "Founded": "1992",
     "Headquarters": "Austin, Texas, USA"
   },
   {
-    "Company": "Ariel Investments, LLC",
+    "CompanyName": "Ariel Investments, LLC",
     "Investor": "John W. Rogers Jr.",
     "Founded": "1983",
     "Headquarters": "Chicago, Illinois, USA"
   },
   {
-    "Company": "Olstein Capital Management, L.P.",
+    "CompanyName": "Olstein Capital Management, L.P.",
     "Investor": "Robert Olstein",
     "Founded": "1995",
     "Headquarters": "Purchase, New York, USA"
   },
   {
-    "Company": "Parnassus Investments, LLC",
+    "CompanyName": "Parnassus Investments, LLC",
     "Investor": "Benjamin Allen",
     "Founded": "1984",
     "Headquarters": "San Francisco, California, USA"
   },
   {
-    "Company": "Brandes Investment Partners, L.P.",
+    "CompanyName": "Brandes Investment Partners, L.P.",
     "Investor": "Charles Brandes",
     "Founded": "1974",
     "Headquarters": "La Jolla (San Diego), California, USA"
   },
   {
-    "Company": "Sands Capital Management, LLC",
+    "CompanyName": "Sands Capital Management, LLC",
     "Investor": "Frank Sands",
     "Founded": "1992",
     "Headquarters": "Arlington, Virginia, USA"
   },
   {
-    "Company": "Tiger Management L.L.C.",
+    "CompanyName": "Tiger Management L.L.C.",
     "Investor": "Julian Robertson",
     "Founded": "1980",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Pzena Investment Management LLC",
+    "CompanyName": "Pzena Investment Management LLC",
     "Investor": "Richard Pzena",
     "Founded": "1995",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Polen Capital Management LLC",
+    "CompanyName": "Polen Capital Management LLC",
     "Investor": "David M. Polen",
     "Founded": "1979",
     "Headquarters": "Boca Raton, Florida, USA"
   },
   {
-    "Company": "Paulson & Co. Inc.",
+    "CompanyName": "Paulson & Co. Inc.",
     "Investor": "John Paulson",
     "Founded": "1994",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Kahn Brothers Group Inc",
+    "CompanyName": "Kahn Brothers Group Inc",
     "Investor": "Thomas Graham, Alan & Irving Kahns",
     "Founded": "1978",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Lone Pine Capital LLC",
+    "CompanyName": "Lone Pine Capital LLC",
     "Investor": "Stephen Mandel",
     "Founded": "1997",
     "Headquarters": "Greenwich, Connecticut, USA"
   },
   {
-    "Company": "Atlantic Investment Management, Inc.",
+    "CompanyName": "Atlantic Investment Management, Inc.",
     "Investor": "Alex Roepers",
     "Founded": "1988",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Mairs & Power Inc",
+    "CompanyName": "Mairs & Power Inc",
     "Investor": "Mairs and Power",
     "Founded": "1931",
     "Headquarters": "St. Paul, Minnesota, USA"
   },
   {
-    "Company": "Viking Global Investors LP",
+    "CompanyName": "Viking Global Investors LP",
     "Investor": "Andreas Halvorsen",
     "Founded": "1999",
     "Headquarters": "Greenwich, Connecticut, USA"
   },
   {
-    "Company": "MSD Capital L.P.",
+    "CompanyName": "MSD Capital L.P.",
     "Investor": "Michael Dell",
     "Founded": "1998",
     "Headquarters": "New York, New York, USA (also Austin and West Palm Beach offices)"
   },
   {
-    "Company": "Auxier Asset Management",
+    "CompanyName": "Auxier Asset Management",
     "Investor": "Jeff Auxier",
     "Founded": "1998",
     "Headquarters": "Lake Oswego, Oregon, USA"
   },
   {
-    "Company": "Jensen Investment Management Inc",
+    "CompanyName": "Jensen Investment Management Inc",
     "Investor": "Eric Schoenstein",
     "Founded": "1988",
     "Headquarters": "Lake Oswego, Oregon, USA"
   },
   {
-    "Company": "Joho Capital LLC",
+    "CompanyName": "Joho Capital LLC",
     "Investor": "Robert Karr",
     "Founded": "1996",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Coatue Management LLC",
+    "CompanyName": "Coatue Management LLC",
     "Investor": "Philippe Laffont",
     "Founded": "1999",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "JANA Partners LLC",
+    "CompanyName": "JANA Partners LLC",
     "Investor": "Barry Rosenstein & Scott Ostfeld",
     "Founded": "2001",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Causeway Capital Management LLC",
+    "CompanyName": "Causeway Capital Management LLC",
     "Investor": "Sarah Ketterer",
     "Founded": "2001",
     "Headquarters": "Los Angeles, California, USA"
   },
   {
-    "Company": "Hussman Strategic Advisors, Inc.",
+    "CompanyName": "Hussman Strategic Advisors, Inc.",
     "Investor": "John Hussman",
     "Founded": "2000",
     "Headquarters": "Ellicott City, Maryland, USA"
   },
   {
-    "Company": "Diamond Hill Capital Management Inc",
+    "CompanyName": "Diamond Hill Capital Management Inc",
     "Investor": "Richard Greenberg & Jon Hartsel",
     "Founded": "2000 (investment adviser since 1988 via parent)",
     "Headquarters": "Columbus, Ohio, USA"
   },
   {
-    "Company": "Cantillon Capital Management LLC",
+    "CompanyName": "Cantillon Capital Management LLC",
     "Investor": "William Von Mueffling",
     "Founded": "2003",
     "Headquarters": "New York, New York, USA and London, UK (dual offices; registration address London)"
   },
   {
-    "Company": "Hillman Capital Management, Inc.",
+    "CompanyName": "Hillman Capital Management, Inc.",
     "Investor": "Mark Hillman",
     "Founded": "1998",
     "Headquarters": "Rockville, Maryland, USA"
   },
   {
-    "Company": "Generation Investment Management LLP",
+    "CompanyName": "Generation Investment Management LLP",
     "Investor": "Al Gore",
     "Founded": "2004",
     "Headquarters": "London, United Kingdom (20 Air Street)"
   },
   {
-    "Company": "AKO Capital LLP",
+    "CompanyName": "AKO Capital LLP",
     "Investor": "Nicolai Tangen",
     "Founded": "2005",
     "Headquarters": "London, United Kingdom"
   },
   {
-    "Company": "Smead Capital Management, Inc.",
+    "CompanyName": "Smead Capital Management, Inc.",
     "Investor": "Cole Smead",
     "Founded": "2007",
     "Headquarters": "Phoenix, Arizona, USA"
   },
   {
-    "Company": "Moore Capital Management, LP",
+    "CompanyName": "Moore Capital Management, LP",
     "Investor": "Louis Moore Bacon",
     "Founded": "1989",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Lindsell Train Ltd",
+    "CompanyName": "Lindsell Train Ltd",
     "Investor": "Michael Lindsell & Nick Train",
     "Founded": "2000",
     "Headquarters": "London, United Kingdom"
   },
   {
-    "Company": "Greenbrier Partners Capital Management, LLC",
+    "CompanyName": "Greenbrier Partners Capital Management, LLC",
     "Investor": "Frederick (Shad) Rowe",
     "Founded": "2013",
     "Headquarters": "Dallas, Texas, USA"
   },
   {
-    "Company": "Brave Warrior Advisors, LLC",
+    "CompanyName": "Brave Warrior Advisors, LLC",
     "Investor": "Glenn Greenberg",
     "Founded": "2007",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Engaged Capital LLC",
+    "CompanyName": "Engaged Capital LLC",
     "Investor": "Glenn Welling",
     "Founded": "2012",
     "Headquarters": "Newport Beach, California, USA"
   },
   {
-    "Company": "Private Capital Management, LLC",
+    "CompanyName": "Private Capital Management, LLC",
     "Investor": "Gregg J. Powers",
     "Founded": "1986",
     "Headquarters": "Naples, Florida, USA"
   },
   {
-    "Company": "Point72 Asset Management, L.P.",
+    "CompanyName": "Point72 Asset Management, L.P.",
     "Investor": "Steven Cohen",
     "Founded": "2014 (successor to SAC Capital)",
     "Headquarters": "Stamford, Connecticut, USA"
   },
   {
-    "Company": "AltaRock Partners LLC",
+    "CompanyName": "AltaRock Partners LLC",
     "Investor": "Mark Massey",
     "Founded": "2010",
     "Headquarters": "Mill Valley, California, USA"
   },
   {
-    "Company": "Oakcliff Capital Partners, LP",
+    "CompanyName": "Oakcliff Capital Partners, LP",
     "Investor": "Bryan Lawrence",
     "Founded": "2006",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Valley Forge Capital Management, LP",
+    "CompanyName": "Valley Forge Capital Management, LP",
     "Investor": "Dev Kantesaria",
     "Founded": "2007",
     "Headquarters": "Wayne, Pennsylvania, USA"
   },
   {
-    "Company": "7G Capital Management, LLC",
+    "CompanyName": "7G Capital Management, LLC",
     "Investor": "Charles Jigarjian",
     "Founded": "2015",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Ruane, Cunniff & Goldfarb L.P.",
+    "CompanyName": "Ruane, Cunniff & Goldfarb L.P.",
     "Investor": "Ruane Cunniff",
     "Founded": "1969",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "ADW Capital Management, LLC",
+    "CompanyName": "ADW Capital Management, LLC",
     "Investor": "Adam Wyden",
     "Founded": "2011",
     "Headquarters": "New York, New York, USA"
   },
   {
-    "Company": "Ensemble Capital Management, LLC",
+    "CompanyName": "Ensemble Capital Management, LLC",
     "Investor": "Sean Stannard-Stockton",
     "Founded": "1997",
     "Headquarters": "Burlingame, California, USA"
