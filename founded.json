@@ -1,12 +1,12 @@
 [
   {
-    "investorName": "Berkshire Hathaway Inc",
+    "investorName": "Berkshire Hathaway Inc.",
     "Investor": "Warren Buffett",
     "Founded": "1839 (as Berkshire Cotton Manufacturing; modern conglomerate under Buffett from 1965)",
     "Headquarters": "Omaha, Nebraska, USA (3555 Farnam Street)"
   },
   {
-    "investorName": "Daily Journal Corp",
+    "investorName": "Daily Journal Corp.",
     "Investor": "Charlie Munger",
     "Founded": "1888",
     "Headquarters": "Los Angeles, California, USA"
@@ -30,7 +30,7 @@
     "Headquarters": "New York, New York, USA"
   },
   {
-    "investorName": "Oaktree Capital Management LP",
+    "investorName": "Oaktree Capital Management",
     "Investor": "Howard Marks",
     "Founded": "1995",
     "Headquarters": "Los Angeles, California, USA"
