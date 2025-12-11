@@ -15385,5 +15385,1659 @@
         "percentOwned": "0.6%"
       }
     ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/egerton-capital-(uk)-llp/",
+    "timestamp": "2025-12-11T09:45:51.917Z",
+    "investorName": "Egerton Capital",
+    "basicStats": {
+      "Market Value": "9.48B",
+      "Top 10 (%)": "65.8%",
+      "Portfolio Size (Change from Prev.)": "24 (-1)",
+      "Avg. Holding Period": "10 years",
+      "Turnover": "0.3%"
+    },
+    "industryBreakdown": {
+      "Wholesale-hardware & Plumbing & Heating Equipment & Supplies": "12.3%",
+      "Services-business Services, Nec": "11.3%",
+      "Fire, Marine & Casualty Insurance": "10.1%",
+      "Services-prepackaged Software": "9.9%",
+      "Retail-catalog & Mail-order Houses": "9.4%",
+      "Services-computer Programming, Data Processing, Etc.": "8.0%",
+      "Surgical & Medical Instruments & Apparatus": "5.5%",
+      "Cement, Hydraulic": "5.4%",
+      "Security & Commodity Brokers, Dealers, Exchanges & Services": "5.2%",
+      "Electronic Connectors": "5.0%"
+    },
+    "holdings": [
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp",
+        "marketValue": "937.90M",
+        "percentPortfolio": "9.9%",
+        "shares": "1.8M",
+        "changeSharesPercent": "-1.8%",
+        "changeShares": "-33.3K",
+        "quarterEndPrice": "518.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "AMZN",
+        "company": "Amazon Com Inc",
+        "marketValue": "889.97M",
+        "percentPortfolio": "9.4%",
+        "shares": "4.1M",
+        "changeSharesPercent": "21.4%",
+        "changeShares": "715.9K",
+        "quarterEndPrice": "220.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "V",
+        "company": "Visa Inc",
+        "marketValue": "813.64M",
+        "percentPortfolio": "8.6%",
+        "shares": "2.4M",
+        "changeSharesPercent": "24.8%",
+        "changeShares": "473.1K",
+        "quarterEndPrice": "341.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "PGR",
+        "company": "Progressive Corp",
+        "marketValue": "639.26M",
+        "percentPortfolio": "6.7%",
+        "shares": "2.6M",
+        "changeSharesPercent": "-1.9%",
+        "changeShares": "-49.3K",
+        "quarterEndPrice": "247.00",
+        "percentOwned": "0.4%"
+      },
+      {
+        "ticker": "FERG",
+        "company": "Ferguson Enterprises Inc",
+        "marketValue": "583.96M",
+        "percentPortfolio": "6.2%",
+        "shares": "2.6M",
+        "changeSharesPercent": "16.4%",
+        "changeShares": "366.9K",
+        "quarterEndPrice": "225.00",
+        "percentOwned": "1.3%"
+      },
+      {
+        "ticker": "BSX",
+        "company": "Boston Scientific Corp",
+        "marketValue": "518.66M",
+        "percentPortfolio": "5.5%",
+        "shares": "5.3M",
+        "changeSharesPercent": "223.7%",
+        "changeShares": "3.7M",
+        "quarterEndPrice": "98.00",
+        "percentOwned": "0.4%"
+      },
+      {
+        "ticker": "CRH",
+        "company": "Crh Plc",
+        "marketValue": "510.88M",
+        "percentPortfolio": "5.4%",
+        "shares": "4.3M",
+        "changeSharesPercent": "-6.8%",
+        "changeShares": "-309.7K",
+        "quarterEndPrice": "120.00",
+        "percentOwned": "0.6%"
+      },
+      {
+        "ticker": "APH",
+        "company": "Amphenol Corp New",
+        "marketValue": "473.15M",
+        "percentPortfolio": "5.0%",
+        "shares": "3.8M",
+        "changeSharesPercent": "20.7%",
+        "changeShares": "654.9K",
+        "quarterEndPrice": "124.00",
+        "percentOwned": "0.3%"
+      },
+      {
+        "ticker": "COF",
+        "company": "Capital One Finl Corp",
+        "marketValue": "441.71M",
+        "percentPortfolio": "4.7%",
+        "shares": "2.1M",
+        "changeSharesPercent": "-11.0%",
+        "changeShares": "-255.8K",
+        "quarterEndPrice": "213.00",
+        "percentOwned": "0.3%"
+      },
+      {
+        "ticker": "IBKR",
+        "company": "Interactive Brokers Group In",
+        "marketValue": "430.35M",
+        "percentPortfolio": "4.5%",
+        "shares": "6.3M",
+        "changeSharesPercent": "-22.4%",
+        "changeShares": "-1.8M",
+        "quarterEndPrice": "69.00",
+        "percentOwned": "1.4%"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc",
+        "marketValue": "397.42M",
+        "percentPortfolio": "4.2%",
+        "shares": "541.2K",
+        "changeSharesPercent": "-1.8%",
+        "changeShares": "-10.1K",
+        "quarterEndPrice": "734.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "STX",
+        "company": "Seagate Technology Hldngs Pl",
+        "marketValue": "376.04M",
+        "percentPortfolio": "4.0%",
+        "shares": "1.6M",
+        "changeSharesPercent": "-22.3%",
+        "changeShares": "-458.5K",
+        "quarterEndPrice": "236.00",
+        "percentOwned": "0.8%"
+      },
+      {
+        "ticker": "FLUT",
+        "company": "Flutter Entmt Plc",
+        "marketValue": "358.65M",
+        "percentPortfolio": "3.8%",
+        "shares": "1.4M",
+        "changeSharesPercent": "-2.6%",
+        "changeShares": "-37.9K",
+        "quarterEndPrice": "254.00",
+        "percentOwned": "0.8%"
+      },
+      {
+        "ticker": "CRS",
+        "company": "Carpenter Technology Corp",
+        "marketValue": "337.45M",
+        "percentPortfolio": "3.6%",
+        "shares": "1.4M",
+        "changeSharesPercent": "-28.0%",
+        "changeShares": "-534.7K",
+        "quarterEndPrice": "246.00",
+        "percentOwned": "2.7%"
+      },
+      {
+        "ticker": "CME",
+        "company": "Cme Group Inc",
+        "marketValue": "320.12M",
+        "percentPortfolio": "3.4%",
+        "shares": "1.2M",
+        "changeSharesPercent": "-22.2%",
+        "changeShares": "-338.1K",
+        "quarterEndPrice": "270.00",
+        "percentOwned": "0.3%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/bill-melinda-gates-foundation-trust/",
+    "timestamp": "2025-12-11T09:45:55.383Z",
+    "investorName": "Bill & Melinda Gates Foundation Trust",
+    "basicStats": {
+      "Market Value": "36.58B",
+      "Top 10 (%)": "95.7%",
+      "Portfolio Size (Change from Prev.)": "23 (-2)",
+      "Avg. Holding Period": "28 years",
+      "Turnover": "0.1%"
+    },
+    "industryBreakdown": {
+      "Fire, Marine & Casualty Insurance": "29.9%",
+      "Refuse Systems": "18.4%",
+      "Railroads, Line-haul Operating": "13.4%",
+      "Services-prepackaged Software": "13.0%",
+      "Construction Machinery & Equip": "8.3%",
+      "Farm Machinery & Equipment": "4.4%",
+      "Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics": "3.9%",
+      "Retail-variety Stores": "2.4%",
+      "Air Courier Services": "1.5%",
+      "Bottled & Canned Soft Drinks & Carbonated Waters": "1.4%"
+    },
+    "holdings": [
+      {
+        "ticker": "BRK-B",
+        "company": "Berkshire Hathaway Inc Del",
+        "marketValue": "10.94B",
+        "percentPortfolio": "29.9%",
+        "shares": "21.8M",
+        "changeSharesPercent": "-9.8%",
+        "changeShares": "-2.4M",
+        "quarterEndPrice": "503.00",
+        "percentOwned": "1.0%"
+      },
+      {
+        "ticker": "WM",
+        "company": "Waste Mgmt Inc Del",
+        "marketValue": "6.39B",
+        "percentPortfolio": "17.5%",
+        "shares": "28.9M",
+        "changeSharesPercent": "-10.2%",
+        "changeShares": "-3.3M",
+        "quarterEndPrice": "221.00",
+        "percentOwned": "7.2%"
+      },
+      {
+        "ticker": "CNI",
+        "company": "Canadian Natl Ry Co",
+        "marketValue": "4.89B",
+        "percentPortfolio": "13.4%",
+        "shares": "51.8M",
+        "changeSharesPercent": "-5.5%",
+        "changeShares": "-3.0M",
+        "quarterEndPrice": "94.00",
+        "percentOwned": "8.3%"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp",
+        "marketValue": "4.76B",
+        "percentPortfolio": "13.0%",
+        "shares": "9.2M",
+        "changeSharesPercent": "-64.9%",
+        "changeShares": "-17.0M",
+        "quarterEndPrice": "518.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "CAT",
+        "company": "Caterpillar Inc",
+        "marketValue": "3.03B",
+        "percentPortfolio": "8.3%",
+        "shares": "6.4M",
+        "changeSharesPercent": "-13.6%",
+        "changeShares": "-1.0M",
+        "quarterEndPrice": "477.00",
+        "percentOwned": "1.4%"
+      },
+      {
+        "ticker": "DE",
+        "company": "Deere & Co",
+        "marketValue": "1.63B",
+        "percentPortfolio": "4.4%",
+        "shares": "3.6M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "457.00",
+        "percentOwned": "1.3%"
+      },
+      {
+        "ticker": "ECL",
+        "company": "Ecolab Inc",
+        "marketValue": "1.43B",
+        "percentPortfolio": "3.9%",
+        "shares": "5.2M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "274.00",
+        "percentOwned": "1.8%"
+      },
+      {
+        "ticker": "WMT",
+        "company": "Walmart Inc",
+        "marketValue": "864.72M",
+        "percentPortfolio": "2.4%",
+        "shares": "8.4M",
+        "changeSharesPercent": "-7.7%",
+        "changeShares": "-700.0K",
+        "quarterEndPrice": "103.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "FDX",
+        "company": "Fedex Corp",
+        "marketValue": "562.26M",
+        "percentPortfolio": "1.5%",
+        "shares": "2.4M",
+        "changeSharesPercent": "-5.9%",
+        "changeShares": "-150.0K",
+        "quarterEndPrice": "236.00",
+        "percentOwned": "1.0%"
+      },
+      {
+        "ticker": "KOF",
+        "company": "Coca-cola Femsa Sab De Cv",
+        "marketValue": "516.44M",
+        "percentPortfolio": "1.4%",
+        "shares": "6.2M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "83.00",
+        "percentOwned": "3.0%"
+      },
+      {
+        "ticker": "WCN",
+        "company": "Waste Connections Inc",
+        "marketValue": "358.49M",
+        "percentPortfolio": "1.0%",
+        "shares": "2.0M",
+        "changeSharesPercent": "-5.1%",
+        "changeShares": "-110.0K",
+        "quarterEndPrice": "176.00",
+        "percentOwned": "0.8%"
+      },
+      {
+        "ticker": "CPNG",
+        "company": "Coupang Inc",
+        "marketValue": "297.79M",
+        "percentPortfolio": "0.8%",
+        "shares": "9.2M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "32.00",
+        "percentOwned": "0.5%"
+      },
+      {
+        "ticker": "SDGR",
+        "company": "Schrodinger Inc",
+        "marketValue": "140.05M",
+        "percentPortfolio": "0.4%",
+        "shares": "7.0M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "20.00",
+        "percentOwned": "9.5%"
+      },
+      {
+        "ticker": "MSGS",
+        "company": "Madison Square Grdn Sprt Cor",
+        "marketValue": "134.48M",
+        "percentPortfolio": "0.4%",
+        "shares": "592.4K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "227.00",
+        "percentOwned": "2.5%"
+      },
+      {
+        "ticker": "WST",
+        "company": "West Pharmaceutical Svsc Inc",
+        "marketValue": "116.61M",
+        "percentPortfolio": "0.3%",
+        "shares": "444.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "262.00",
+        "percentOwned": "0.6%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/giverny-capital-inc./",
+    "timestamp": "2025-12-11T09:45:58.838Z",
+    "investorName": "Giverny Capital Inc.",
+    "basicStats": {
+      "Market Value": "2.95B",
+      "Top 10 (%)": "57.6%",
+      "Portfolio Size (Change from Prev.)": "52 (-3)",
+      "Avg. Holding Period": "20 years",
+      "Turnover": "0.1%"
+    },
+    "industryBreakdown": {
+      "Services-computer Programming, Data Processing, Etc.": "21.3%",
+      "Fire, Marine & Casualty Insurance": "19.0%",
+      "Industrial Instruments For Measurement, Display, And Control": "8.3%",
+      "Services-business Services, Nec": "8.1%",
+      "Aircraft Engines & Engine Parts": "6.5%",
+      "Security Brokers, Dealers & Flotation Companies": "5.1%",
+      "Services-commercial Physical & Biological Research": "4.6%",
+      "General Bldg Contractors - Residential Bldgs": "4.3%",
+      "Transportation Services": "3.9%",
+      "Operative Builders": "3.9%"
+    },
+    "holdings": [
+      {
+        "ticker": "BRK-B",
+        "company": "Berkshire Hathaway Inc Del",
+        "marketValue": "256.72M",
+        "percentPortfolio": "8.7%",
+        "shares": "510.6K",
+        "changeSharesPercent": "-0.2%",
+        "changeShares": "-1.1K",
+        "quarterEndPrice": "503.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc",
+        "marketValue": "228.99M",
+        "percentPortfolio": "7.8%",
+        "shares": "311.8K",
+        "changeSharesPercent": "-2.2%",
+        "changeShares": "-7.1K",
+        "quarterEndPrice": "734.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "HEI-A",
+        "company": "Heico Corp New",
+        "marketValue": "190.44M",
+        "percentPortfolio": "6.5%",
+        "shares": "749.5K",
+        "changeSharesPercent": "0.0%",
+        "changeShares": "9.0",
+        "quarterEndPrice": "254.00",
+        "percentOwned": "0.5%"
+      },
+      {
+        "ticker": "AME",
+        "company": "Ametek Inc",
+        "marketValue": "187.38M",
+        "percentPortfolio": "6.3%",
+        "shares": "996.7K",
+        "changeSharesPercent": "0.0%",
+        "changeShares": "332.0",
+        "quarterEndPrice": "188.00",
+        "percentOwned": "0.4%"
+      },
+      {
+        "ticker": "GOOG",
+        "company": "Alphabet Inc C",
+        "marketValue": "155.44M",
+        "percentPortfolio": "5.3%",
+        "shares": "638.2K",
+        "changeSharesPercent": "-2.4%",
+        "changeShares": "-15.5K",
+        "quarterEndPrice": "244.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "SCHW",
+        "company": "Schwab Charles Corp",
+        "marketValue": "150.44M",
+        "percentPortfolio": "5.1%",
+        "shares": "1.6M",
+        "changeSharesPercent": "0.5%",
+        "changeShares": "8.3K",
+        "quarterEndPrice": "95.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "V",
+        "company": "Visa Inc",
+        "marketValue": "138.44M",
+        "percentPortfolio": "4.7%",
+        "shares": "405.5K",
+        "changeSharesPercent": "1.1%",
+        "changeShares": "4.2K",
+        "quarterEndPrice": "341.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "MEDP",
+        "company": "Medpace Holdings Inc",
+        "marketValue": "134.61M",
+        "percentPortfolio": "4.6%",
+        "shares": "261.8K",
+        "changeSharesPercent": "0.0%",
+        "changeShares": "47.0",
+        "quarterEndPrice": "514.00",
+        "percentOwned": "0.9%"
+      },
+      {
+        "ticker": "PGR",
+        "company": "Progressive Corp",
+        "marketValue": "131.84M",
+        "percentPortfolio": "4.5%",
+        "shares": "533.9K",
+        "changeSharesPercent": "2.6%",
+        "changeShares": "13.5K",
+        "quarterEndPrice": "247.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "IBP",
+        "company": "Installed Bldg Prods Inc",
+        "marketValue": "126.96M",
+        "percentPortfolio": "4.3%",
+        "shares": "514.7K",
+        "changeSharesPercent": "0.1%",
+        "changeShares": "277.0",
+        "quarterEndPrice": "247.00",
+        "percentOwned": "1.9%"
+      },
+      {
+        "ticker": "BKNG",
+        "company": "Booking Holdings Inc.",
+        "marketValue": "115.24M",
+        "percentPortfolio": "3.9%",
+        "shares": "21.3K",
+        "changeSharesPercent": "0.2%",
+        "changeShares": "53.0",
+        "quarterEndPrice": "5.40K",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "NVR",
+        "company": "Nvr Inc",
+        "marketValue": "113.09M",
+        "percentPortfolio": "3.8%",
+        "shares": "14.1K",
+        "changeSharesPercent": "0.3%",
+        "changeShares": "37.0",
+        "quarterEndPrice": "8.04K",
+        "percentOwned": "0.5%"
+      },
+      {
+        "ticker": "FIVE",
+        "company": "Five Below Inc",
+        "marketValue": "98.56M",
+        "percentPortfolio": "3.3%",
+        "shares": "637.1K",
+        "changeSharesPercent": "1.8%",
+        "changeShares": "11.2K",
+        "quarterEndPrice": "155.00",
+        "percentOwned": "1.2%"
+      },
+      {
+        "ticker": "GOOGL",
+        "company": "Alphabet Inc",
+        "marketValue": "87.31M",
+        "percentPortfolio": "3.0%",
+        "shares": "359.1K",
+        "changeSharesPercent": "-5.4%",
+        "changeShares": "-20.5K",
+        "quarterEndPrice": "243.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "FI",
+        "company": "Fiserv Inc",
+        "marketValue": "83.97M",
+        "percentPortfolio": "2.8%",
+        "shares": "651.3K",
+        "changeSharesPercent": "0.4%",
+        "changeShares": "2.7K",
+        "quarterEndPrice": "129.00",
+        "percentOwned": "0.1%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/turtle-creek-asset-management-inc./",
+    "timestamp": "2025-12-11T09:46:01.636Z",
+    "investorName": "Turtle Creek Asset Management Inc.",
+    "basicStats": {
+      "Market Value": "3.31B",
+      "Top 10 (%)": "54.0%",
+      "Portfolio Size (Change from Prev.)": "41 (0)",
+      "Avg. Holding Period": "15 years",
+      "Turnover": "0.2%"
+    },
+    "industryBreakdown": {
+      "Services-business Services, Nec": "11.4%",
+      "Plastic Material, Synth Resin/rubber, Cellulos (no Glass)": "6.5%",
+      "Refrigeration & Service Industry Machinery": "5.9%",
+      "Engines & Turbines": "5.6%",
+      "Services-miscellaneous Equipment Rental & Leasing": "5.6%",
+      "General Industrial Machinery & Equipment, Nec": "5.5%",
+      "Communications Services, Nec": "5.3%",
+      "Retail-lumber & Other Building Materials Dealers": "5.0%",
+      "Trucking & Courier Services (no Air)": "4.8%",
+      "General Industrial Machinery & Equipment": "4.5%"
+    },
+    "holdings": [
+      {
+        "ticker": "CE",
+        "company": "Celanese",
+        "marketValue": "215.25M",
+        "percentPortfolio": "6.5%",
+        "shares": "5.1M",
+        "changeSharesPercent": "21.0%",
+        "changeShares": "887.6K",
+        "quarterEndPrice": "42.00",
+        "percentOwned": "4.7%"
+      },
+      {
+        "ticker": "MIDD",
+        "company": "Middleby Corp",
+        "marketValue": "194.32M",
+        "percentPortfolio": "5.9%",
+        "shares": "1.5M",
+        "changeSharesPercent": "4.2%",
+        "changeShares": "59.1K",
+        "quarterEndPrice": "133.00",
+        "percentOwned": "2.8%"
+      },
+      {
+        "ticker": "BC",
+        "company": "Brunswick Corp",
+        "marketValue": "185.05M",
+        "percentPortfolio": "5.6%",
+        "shares": "2.9M",
+        "changeSharesPercent": "-18.1%",
+        "changeShares": "-648.4K",
+        "quarterEndPrice": "63.00",
+        "percentOwned": "4.4%"
+      },
+      {
+        "ticker": "WSC",
+        "company": "Willscot Holdings",
+        "marketValue": "184.30M",
+        "percentPortfolio": "5.6%",
+        "shares": "8.7M",
+        "changeSharesPercent": "71.7%",
+        "changeShares": "3.6M",
+        "quarterEndPrice": "21.00",
+        "percentOwned": "4.8%"
+      },
+      {
+        "ticker": "BFH",
+        "company": "Bread Financial Holdings Inc",
+        "marketValue": "183.12M",
+        "percentPortfolio": "5.5%",
+        "shares": "3.3M",
+        "changeSharesPercent": "-8.7%",
+        "changeShares": "-311.1K",
+        "quarterEndPrice": "56.00",
+        "percentOwned": "7.0%"
+      },
+      {
+        "ticker": "ATS",
+        "company": "Ats Corp",
+        "marketValue": "182.69M",
+        "percentPortfolio": "5.5%",
+        "shares": "7.0M",
+        "changeSharesPercent": "-8.1%",
+        "changeShares": "-617.5K",
+        "quarterEndPrice": "26.00",
+        "percentOwned": "7.1%"
+      },
+      {
+        "ticker": "CCOI",
+        "company": "Cogent Communications Holdings",
+        "marketValue": "176.56M",
+        "percentPortfolio": "5.3%",
+        "shares": "4.6M",
+        "changeSharesPercent": "64.9%",
+        "changeShares": "1.8M",
+        "quarterEndPrice": "38.00",
+        "percentOwned": "9.7%"
+      },
+      {
+        "ticker": "TFII",
+        "company": "Tfi International Inc",
+        "marketValue": "160.33M",
+        "percentPortfolio": "4.8%",
+        "shares": "1.8M",
+        "changeSharesPercent": "-5.7%",
+        "changeShares": "-109.3K",
+        "quarterEndPrice": "88.00",
+        "percentOwned": "2.2%"
+      },
+      {
+        "ticker": "FND",
+        "company": "Floor & Decor",
+        "marketValue": "158.82M",
+        "percentPortfolio": "4.8%",
+        "shares": "2.2M",
+        "changeSharesPercent": "-4.6%",
+        "changeShares": "-102.8K",
+        "quarterEndPrice": "74.00",
+        "percentOwned": "2.0%"
+      },
+      {
+        "ticker": "IR",
+        "company": "Ingersoll-rand Inc",
+        "marketValue": "148.62M",
+        "percentPortfolio": "4.5%",
+        "shares": "1.8M",
+        "changeSharesPercent": "-1.9%",
+        "changeShares": "-35.3K",
+        "quarterEndPrice": "83.00",
+        "percentOwned": "0.4%"
+      },
+      {
+        "ticker": "CIGI",
+        "company": "Colliers International Group Inc",
+        "marketValue": "127.49M",
+        "percentPortfolio": "3.8%",
+        "shares": "816.1K",
+        "changeSharesPercent": "-34.7%",
+        "changeShares": "-434.4K",
+        "quarterEndPrice": "156.00",
+        "percentOwned": "2.2%"
+      },
+      {
+        "ticker": "KMX",
+        "company": "Carmax Inc",
+        "marketValue": "121.48M",
+        "percentPortfolio": "3.7%",
+        "shares": "2.7M",
+        "changeSharesPercent": "0.6%",
+        "changeShares": "16.6K",
+        "quarterEndPrice": "45.00",
+        "percentOwned": "1.8%"
+      },
+      {
+        "ticker": "SCI",
+        "company": "Service Corp International",
+        "marketValue": "110.85M",
+        "percentPortfolio": "3.3%",
+        "shares": "1.3M",
+        "changeSharesPercent": "-2.0%",
+        "changeShares": "-27.7K",
+        "quarterEndPrice": "83.00",
+        "percentOwned": "0.9%"
+      },
+      {
+        "ticker": "DOOO",
+        "company": "Brp Inc.",
+        "marketValue": "104.40M",
+        "percentPortfolio": "3.2%",
+        "shares": "1.7M",
+        "changeSharesPercent": "-42.5%",
+        "changeShares": "-1.3M",
+        "quarterEndPrice": "61.00",
+        "percentOwned": "2.4%"
+      },
+      {
+        "ticker": "FI",
+        "company": "Fiserv Inc",
+        "marketValue": "100.24M",
+        "percentPortfolio": "3.0%",
+        "shares": "777.5K",
+        "changeSharesPercent": "New Buy",
+        "changeShares": "777.5K",
+        "quarterEndPrice": "129.00",
+        "percentOwned": "0.1%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/chou-associates-management-inc./",
+    "timestamp": "2025-12-11T09:46:04.611Z",
+    "investorName": "Chou Associates Management Inc.",
+    "basicStats": {
+      "Market Value": "207.74M",
+      "Top 10 (%)": "85.6%",
+      "Portfolio Size (Change from Prev.)": "31 (0)",
+      "Avg. Holding Period": "15 years",
+      "Turnover": "—"
+    },
+    "industryBreakdown": {
+      "Fire, Marine & Casualty Insurance": "31.2%",
+      "Services-computer Programming, Data Processing, Etc.": "19.3%",
+      "Radio Broadcasting Stations": "7.9%",
+      "Motor Vehicles & Passenger Car Bodies": "7.8%",
+      "National Commercial Banks": "7.4%",
+      "Finance Services": "7.4%",
+      "Crude Petroleum & Natural Gas": "7.1%",
+      "Electronic Computers": "5.4%",
+      "Services-business Services, Nec": "4.9%",
+      "State Commercial Banks": "4.3%"
+    },
+    "holdings": [
+      {
+        "ticker": "BRK-A",
+        "company": "Berkshire Hathaway Inc Del",
+        "marketValue": "64.86M",
+        "percentPortfolio": "31.2%",
+        "shares": "86.0",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "754.20K",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "GOOG",
+        "company": "Alphabet Inc",
+        "marketValue": "20.07M",
+        "percentPortfolio": "9.7%",
+        "shares": "82.4K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "244.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "SIRI",
+        "company": "Siriusxm Holdings Inc",
+        "marketValue": "16.35M",
+        "percentPortfolio": "7.9%",
+        "shares": "702.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "23.00",
+        "percentOwned": "0.2%"
+      },
+      {
+        "ticker": "SYF",
+        "company": "Synchrony Financial",
+        "marketValue": "15.33M",
+        "percentPortfolio": "7.4%",
+        "shares": "215.7K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "71.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "OXY",
+        "company": "Occidental Pete Corp",
+        "marketValue": "14.79M",
+        "percentPortfolio": "7.1%",
+        "shares": "313.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "47.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "STLA",
+        "company": "Stellantis N.v",
+        "marketValue": "13.02M",
+        "percentPortfolio": "6.3%",
+        "shares": "1.4M",
+        "changeSharesPercent": "101.5%",
+        "changeShares": "702.2K",
+        "quarterEndPrice": "9.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "AAPL",
+        "company": "Apple Inc",
+        "marketValue": "11.20M",
+        "percentPortfolio": "5.4%",
+        "shares": "44.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "255.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "ALLY",
+        "company": "Ally Finl Inc",
+        "marketValue": "8.84M",
+        "percentPortfolio": "4.3%",
+        "shares": "225.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "39.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "BABA",
+        "company": "Alibaba Group Hldg Ltd",
+        "marketValue": "7.49M",
+        "percentPortfolio": "3.6%",
+        "shares": "41.9K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "179.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "C",
+        "company": "Citigroup Inc",
+        "marketValue": "5.86M",
+        "percentPortfolio": "2.8%",
+        "shares": "57.7K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "102.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "WFC",
+        "company": "Wells Fargo Co New",
+        "marketValue": "4.99M",
+        "percentPortfolio": "2.4%",
+        "shares": "59.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "84.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "POOL",
+        "company": "Pool Corp",
+        "marketValue": "3.30M",
+        "percentPortfolio": "1.6%",
+        "shares": "10.6K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "310.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "GM",
+        "company": "General Mtrs Co",
+        "marketValue": "3.17M",
+        "percentPortfolio": "1.5%",
+        "shares": "52.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "61.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "MCO",
+        "company": "Moodys Corp",
+        "marketValue": "2.81M",
+        "percentPortfolio": "1.4%",
+        "shares": "5.9K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "476.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "PYPL",
+        "company": "Paypal Hldgs Inc",
+        "marketValue": "2.75M",
+        "percentPortfolio": "1.3%",
+        "shares": "41.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "67.00",
+        "percentOwned": "0.0%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/weitz-investment-management-inc./",
+    "timestamp": "2025-12-11T09:46:07.348Z",
+    "investorName": "Weitz Investment Management, Inc.",
+    "basicStats": {
+      "Market Value": "1.84B",
+      "Top 10 (%)": "49.5%",
+      "Portfolio Size (Change from Prev.)": "48 (3)",
+      "Avg. Holding Period": "27 years",
+      "Turnover": "0.1%"
+    },
+    "industryBreakdown": {
+      "Services-business Services, Nec": "18.2%",
+      "Services-computer Programming, Data Processing, Etc.": "16.0%",
+      "Services-prepackaged Software": "8.3%",
+      "Fire, Marine & Casualty Insurance": "7.8%",
+      "Industrial Instruments For Measurement, Display, And Control": "6.6%",
+      "Mining & Quarrying Of  Nonmetallic Minerals (no Fuels)": "5.0%",
+      "Cable & Other Pay Television Services": "4.5%",
+      "Insurance Agents, Brokers & Service": "4.1%",
+      "Measuring & Controlling Devices, Nec": "4.0%",
+      "Pumps & Pumping Equipment": "3.6%"
+    },
+    "holdings": [
+      {
+        "ticker": "BRK-B",
+        "company": "Berkshire Hathaway Inc Del",
+        "marketValue": "144.21M",
+        "percentPortfolio": "7.8%",
+        "shares": "286.9K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "503.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "GOOG",
+        "company": "Alphabet Inc",
+        "marketValue": "107.31M",
+        "percentPortfolio": "5.8%",
+        "shares": "440.6K",
+        "changeSharesPercent": "-1.1%",
+        "changeShares": "-5.0K",
+        "quarterEndPrice": "244.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "DHR",
+        "company": "Danaher Corporation",
+        "marketValue": "104.47M",
+        "percentPortfolio": "5.7%",
+        "shares": "527.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "198.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "V",
+        "company": "Visa Inc",
+        "marketValue": "92.37M",
+        "percentPortfolio": "5.0%",
+        "shares": "270.6K",
+        "changeSharesPercent": "-9.2%",
+        "changeShares": "-27.5K",
+        "quarterEndPrice": "341.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "MA",
+        "company": "Mastercard Incorporated",
+        "marketValue": "88.68M",
+        "percentPortfolio": "4.8%",
+        "shares": "155.9K",
+        "changeSharesPercent": "-5.6%",
+        "changeShares": "-9.2K",
+        "quarterEndPrice": "569.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "META",
+        "company": "Meta Platforms Inc",
+        "marketValue": "79.83M",
+        "percentPortfolio": "4.3%",
+        "shares": "108.7K",
+        "changeSharesPercent": "-6.0%",
+        "changeShares": "-7.0K",
+        "quarterEndPrice": "734.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp",
+        "marketValue": "79.75M",
+        "percentPortfolio": "4.3%",
+        "shares": "154.0K",
+        "changeSharesPercent": "18.9%",
+        "changeShares": "24.5K",
+        "quarterEndPrice": "518.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "AON",
+        "company": "Aon Plc",
+        "marketValue": "76.11M",
+        "percentPortfolio": "4.1%",
+        "shares": "213.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "357.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "TMO",
+        "company": "Thermo Fisher Scientific Inc",
+        "marketValue": "72.97M",
+        "percentPortfolio": "4.0%",
+        "shares": "150.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "485.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "IEX",
+        "company": "Idex Corp",
+        "marketValue": "66.16M",
+        "percentPortfolio": "3.6%",
+        "shares": "406.5K",
+        "changeSharesPercent": "0.1%",
+        "changeShares": "250.0",
+        "quarterEndPrice": "163.00",
+        "percentOwned": "0.5%"
+      },
+      {
+        "ticker": "VMC",
+        "company": "Vulcan Matls Co",
+        "marketValue": "65.43M",
+        "percentPortfolio": "3.6%",
+        "shares": "212.7K",
+        "changeSharesPercent": "0.4%",
+        "changeShares": "800.0",
+        "quarterEndPrice": "308.00",
+        "percentOwned": "0.2%"
+      },
+      {
+        "ticker": "CSGP",
+        "company": "Costar Group Inc",
+        "marketValue": "60.73M",
+        "percentPortfolio": "3.3%",
+        "shares": "719.9K",
+        "changeSharesPercent": "-6.0%",
+        "changeShares": "-45.8K",
+        "quarterEndPrice": "84.00",
+        "percentOwned": "0.2%"
+      },
+      {
+        "ticker": "EFX",
+        "company": "Equifax Inc",
+        "marketValue": "55.05M",
+        "percentPortfolio": "3.0%",
+        "shares": "214.6K",
+        "changeSharesPercent": "2.0%",
+        "changeShares": "4.3K",
+        "quarterEndPrice": "257.00",
+        "percentOwned": "0.2%"
+      },
+      {
+        "ticker": "AMZN",
+        "company": "Amazon Com Inc",
+        "marketValue": "48.85M",
+        "percentPortfolio": "2.7%",
+        "shares": "222.5K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "220.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "GPN",
+        "company": "Global Pmts Inc",
+        "marketValue": "45.69M",
+        "percentPortfolio": "2.5%",
+        "shares": "550.0K",
+        "changeSharesPercent": "-1.8%",
+        "changeShares": "-10.0K",
+        "quarterEndPrice": "83.00",
+        "percentOwned": "0.2%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/paulson-co.-inc.",
+    "timestamp": "2025-12-11T09:46:10.268Z",
+    "investorName": "Paulson & Co. Inc.",
+    "basicStats": {
+      "Market Value": "2.97B",
+      "Top 10 (%)": "100.0%",
+      "Portfolio Size (Change from Prev.)": "10 (-5)",
+      "Avg. Holding Period": "27 years",
+      "Turnover": "0.5%"
+    },
+    "industryBreakdown": {
+      "Pharmaceutical Preparations": "44.8%",
+      "Gold And Silver Ores": "35.6%",
+      "Metal Mining": "3.9%",
+      "Services-advertising": "1.7%",
+      "Aircraft Engines & Engine Parts": "1.4%"
+    },
+    "holdings": [
+      {
+        "ticker": "MDGL",
+        "company": "Madrigal Pharmaceuticals Inc",
+        "marketValue": "874.90M",
+        "percentPortfolio": "29.5%",
+        "shares": "1.9M",
+        "changeSharesPercent": "-8.7%",
+        "changeShares": "-182.0K",
+        "quarterEndPrice": "459.00",
+        "percentOwned": "8.6%"
+      },
+      {
+        "ticker": "PPTA",
+        "company": "Perpetua Resources Corp",
+        "marketValue": "654.39M",
+        "percentPortfolio": "22.0%",
+        "shares": "32.3M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "20.00",
+        "percentOwned": "42.3%"
+      },
+      {
+        "ticker": "BHC",
+        "company": "Bausch Health Cos Inc",
+        "marketValue": "456.38M",
+        "percentPortfolio": "15.4%",
+        "shares": "70.8M",
+        "changeSharesPercent": "115.8%",
+        "changeShares": "38.0M",
+        "quarterEndPrice": "6.00",
+        "percentOwned": "19.1%"
+      },
+      {
+        "ticker": "ACADIAN ASSET MANAGEMENT INC",
+        "company": "Acadian Asset Management Inc",
+        "marketValue": "372.92M",
+        "percentPortfolio": "12.6%",
+        "shares": "7.7M",
+        "changeSharesPercent": "-13.5%",
+        "changeShares": "-1.2M",
+        "quarterEndPrice": "48.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "NG",
+        "company": "Novagold Res Inc",
+        "marketValue": "239.69M",
+        "percentPortfolio": "8.1%",
+        "shares": "27.2M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "9.00",
+        "percentOwned": "6.7%"
+      },
+      {
+        "ticker": "AEM",
+        "company": "Agnico Eagle Mines Ltd",
+        "marketValue": "132.08M",
+        "percentPortfolio": "4.4%",
+        "shares": "783.6K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "169.00",
+        "percentOwned": "0.2%"
+      },
+      {
+        "ticker": "THM",
+        "company": "International Tower Hill Min",
+        "marketValue": "115.19M",
+        "percentPortfolio": "3.9%",
+        "shares": "70.2M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "2.00",
+        "percentOwned": "33.8%"
+      },
+      {
+        "ticker": "THRY",
+        "company": "Thryv Hldgs Inc",
+        "marketValue": "51.62M",
+        "percentPortfolio": "1.7%",
+        "shares": "4.3M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "12.00",
+        "percentOwned": "9.8%"
+      },
+      {
+        "ticker": "HON",
+        "company": "Honeywell Intl Inc",
+        "marketValue": "42.10M",
+        "percentPortfolio": "1.4%",
+        "shares": "200.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "211.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "TMQ",
+        "company": "Trilogy Metals Inc New",
+        "marketValue": "30.09M",
+        "percentPortfolio": "1.0%",
+        "shares": "14.3M",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "2.00",
+        "percentOwned": "8.7%"
+      },
+      {
+        "ticker": "IAG",
+        "company": "Iamgold Corp",
+        "marketValue": "—",
+        "percentPortfolio": "—",
+        "shares": "—",
+        "changeSharesPercent": "Sold Out",
+        "changeShares": "-1.9M",
+        "quarterEndPrice": "7.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "SA",
+        "company": "Seabridge Gold Inc",
+        "marketValue": "—",
+        "percentPortfolio": "—",
+        "shares": "—",
+        "changeSharesPercent": "Sold Out",
+        "changeShares": "-2.1M",
+        "quarterEndPrice": "15.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "GOOG",
+        "company": "Alphabet Inc",
+        "marketValue": "—",
+        "percentPortfolio": "—",
+        "shares": "—",
+        "changeSharesPercent": "Sold Out",
+        "changeShares": "-9.0K",
+        "quarterEndPrice": "177.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "JNPR",
+        "company": "Juniper Networks Inc",
+        "marketValue": "—",
+        "percentPortfolio": "—",
+        "shares": "—",
+        "changeSharesPercent": "Sold Out",
+        "changeShares": "-250.0K",
+        "quarterEndPrice": "40.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "EQX",
+        "company": "Equinox Gold Corp",
+        "marketValue": "—",
+        "percentPortfolio": "—",
+        "shares": "—",
+        "changeSharesPercent": "Sold Out",
+        "changeShares": "-2.5M",
+        "quarterEndPrice": "6.00",
+        "percentOwned": "—"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/mairs-power-inc/",
+    "timestamp": "2025-12-11T09:46:13.100Z",
+    "investorName": "Mairs & Power Inc",
+    "basicStats": {
+      "Market Value": "10.64B",
+      "Top 10 (%)": "47.0%",
+      "Portfolio Size (Change from Prev.)": "248 (10)",
+      "Avg. Holding Period": "30 years",
+      "Turnover": "0.1%"
+    },
+    "industryBreakdown": {
+      "Semiconductors & Related Devices": "11.6%",
+      "Services-prepackaged Software": "10.6%",
+      "Services-computer Programming, Data Processing, Etc.": "9.9%",
+      "National Commercial Banks": "6.3%",
+      "Pharmaceutical Preparations": "5.4%",
+      "Retail-catalog & Mail-order Houses": "5.3%",
+      "Services-business Services, Nec": "4.7%",
+      "Electric & Other Services Combined": "4.2%",
+      "Retail-building Materials, Hardware, Garden Supply": "3.7%",
+      "Hospital & Medical Service Plans": "3.5%"
+    },
+    "holdings": [
+      {
+        "ticker": "NVDA",
+        "company": "Nvidia Corporation",
+        "marketValue": "1.04B",
+        "percentPortfolio": "9.8%",
+        "shares": "5.6M",
+        "changeSharesPercent": "-4.1%",
+        "changeShares": "-236.5K",
+        "quarterEndPrice": "187.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "MSFT",
+        "company": "Microsoft Corp",
+        "marketValue": "986.98M",
+        "percentPortfolio": "9.3%",
+        "shares": "1.9M",
+        "changeSharesPercent": "-5.0%",
+        "changeShares": "-99.3K",
+        "quarterEndPrice": "518.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "AMZN",
+        "company": "Amazon Com Inc",
+        "marketValue": "561.20M",
+        "percentPortfolio": "5.3%",
+        "shares": "2.6M",
+        "changeSharesPercent": "2.5%",
+        "changeShares": "63.0K",
+        "quarterEndPrice": "220.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "JPM",
+        "company": "Jpmorgan Chase & Co.",
+        "marketValue": "429.47M",
+        "percentPortfolio": "4.0%",
+        "shares": "1.4M",
+        "changeSharesPercent": "-9.3%",
+        "changeShares": "-139.4K",
+        "quarterEndPrice": "315.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "GOOG",
+        "company": "Alphabet Inc",
+        "marketValue": "429.28M",
+        "percentPortfolio": "4.0%",
+        "shares": "1.8M",
+        "changeSharesPercent": "-2.2%",
+        "changeShares": "-39.2K",
+        "quarterEndPrice": "244.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "UNH",
+        "company": "Unitedhealth Group Inc",
+        "marketValue": "369.45M",
+        "percentPortfolio": "3.5%",
+        "shares": "1.1M",
+        "changeSharesPercent": "1.2%",
+        "changeShares": "12.8K",
+        "quarterEndPrice": "345.00",
+        "percentOwned": "0.1%"
+      },
+      {
+        "ticker": "GGG",
+        "company": "Graco Inc",
+        "marketValue": "334.23M",
+        "percentPortfolio": "3.1%",
+        "shares": "3.9M",
+        "changeSharesPercent": "-1.1%",
+        "changeShares": "-42.9K",
+        "quarterEndPrice": "85.00",
+        "percentOwned": "2.4%"
+      },
+      {
+        "ticker": "AAPL",
+        "company": "Apple Inc",
+        "marketValue": "301.16M",
+        "percentPortfolio": "2.8%",
+        "shares": "1.2M",
+        "changeSharesPercent": "3.5%",
+        "changeShares": "40.2K",
+        "quarterEndPrice": "255.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "TTC",
+        "company": "Toro Co",
+        "marketValue": "274.36M",
+        "percentPortfolio": "2.6%",
+        "shares": "3.6M",
+        "changeSharesPercent": "-1.3%",
+        "changeShares": "-49.3K",
+        "quarterEndPrice": "76.00",
+        "percentOwned": "3.6%"
+      },
+      {
+        "ticker": "LLY",
+        "company": "Eli Lilly & Co",
+        "marketValue": "273.29M",
+        "percentPortfolio": "2.6%",
+        "shares": "358.2K",
+        "changeSharesPercent": "-2.0%",
+        "changeShares": "-7.2K",
+        "quarterEndPrice": "763.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "V",
+        "company": "Visa Inc",
+        "marketValue": "270.08M",
+        "percentPortfolio": "2.5%",
+        "shares": "791.1K",
+        "changeSharesPercent": "-0.5%",
+        "changeShares": "-3.8K",
+        "quarterEndPrice": "341.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "FAST",
+        "company": "Fastenal Co",
+        "marketValue": "231.42M",
+        "percentPortfolio": "2.2%",
+        "shares": "4.7M",
+        "changeSharesPercent": "-12.2%",
+        "changeShares": "-653.7K",
+        "quarterEndPrice": "49.00",
+        "percentOwned": "0.4%"
+      },
+      {
+        "ticker": "FI",
+        "company": "Fiserv Inc",
+        "marketValue": "225.62M",
+        "percentPortfolio": "2.1%",
+        "shares": "1.7M",
+        "changeSharesPercent": "1.0%",
+        "changeShares": "17.3K",
+        "quarterEndPrice": "129.00",
+        "percentOwned": "0.3%"
+      },
+      {
+        "ticker": "NVT",
+        "company": "Nvent Electric Plc",
+        "marketValue": "215.27M",
+        "percentPortfolio": "2.0%",
+        "shares": "2.2M",
+        "changeSharesPercent": "-7.3%",
+        "changeShares": "-170.9K",
+        "quarterEndPrice": "99.00",
+        "percentOwned": "1.3%"
+      },
+      {
+        "ticker": "ECL",
+        "company": "Ecolab Inc",
+        "marketValue": "212.80M",
+        "percentPortfolio": "2.0%",
+        "shares": "777.0K",
+        "changeSharesPercent": "-1.5%",
+        "changeShares": "-11.9K",
+        "quarterEndPrice": "274.00",
+        "percentOwned": "0.3%"
+      }
+    ]
+  },
+  {
+    "url": "https://fiscal.ai/investor/7g-capital-management-llc/",
+    "timestamp": "2025-12-11T09:46:15.989Z",
+    "investorName": "7g Capital Management, Llc",
+    "basicStats": {
+      "Market Value": "156.00M",
+      "Top 10 (%)": "100.0%",
+      "Portfolio Size (Change from Prev.)": "10 (3)",
+      "Avg. Holding Period": "8 years",
+      "Turnover": "0.3%"
+    },
+    "industryBreakdown": {
+      "Semiconductors & Related Devices": "31.1%",
+      "Services-computer Programming, Data Processing, Etc.": "25.7%",
+      "Fire, Marine & Casualty Insurance": "19.4%",
+      "Electronic Computers": "16.3%",
+      "Services-business Services, Nec": "1.4%"
+    },
+    "holdings": [
+      {
+        "ticker": "GOOGL",
+        "company": "Alphabet Inc",
+        "marketValue": "40.11M",
+        "percentPortfolio": "25.7%",
+        "shares": "165.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "243.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "TSM",
+        "company": "Taiwan Semiconfuctor Mfg Ltd",
+        "marketValue": "30.72M",
+        "percentPortfolio": "19.7%",
+        "shares": "110.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "279.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "AAPL",
+        "company": "Apple Inc",
+        "marketValue": "25.46M",
+        "percentPortfolio": "16.3%",
+        "shares": "100.0K",
+        "changeSharesPercent": "-7.0%",
+        "changeShares": "-7.5K",
+        "quarterEndPrice": "255.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "BRK-A",
+        "company": "Berkshire Hathaway Inc Del",
+        "marketValue": "22.63M",
+        "percentPortfolio": "14.5%",
+        "shares": "30.0",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "754.20K",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "NVDA",
+        "company": "Nvdia Corporation",
+        "marketValue": "17.73M",
+        "percentPortfolio": "11.4%",
+        "shares": "95.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "187.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "Applied MATLS Inc",
+        "company": "Applied Matls Inc",
+        "marketValue": "9.21M",
+        "percentPortfolio": "5.9%",
+        "shares": "45.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "205.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "WRB",
+        "company": "Berkley W R Corp",
+        "marketValue": "7.66M",
+        "percentPortfolio": "4.9%",
+        "shares": "100.0K",
+        "changeSharesPercent": "—",
+        "changeShares": "—",
+        "quarterEndPrice": "77.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "PYPL",
+        "company": "Paypal Hldgs Inc",
+        "marketValue": "2.01M",
+        "percentPortfolio": "1.3%",
+        "shares": "30.0K",
+        "changeSharesPercent": "New Buy",
+        "changeShares": "30.0K",
+        "quarterEndPrice": "67.00",
+        "percentOwned": "0.0%"
+      },
+      {
+        "ticker": "NVDIA Corporation",
+        "company": "Nvdia Corporation",
+        "marketValue": "236.25K",
+        "percentPortfolio": "0.2%",
+        "shares": "450.0",
+        "changeSharesPercent": "New Buy",
+        "changeShares": "450.0",
+        "quarterEndPrice": "525.00",
+        "percentOwned": "—"
+      },
+      {
+        "ticker": "MELI",
+        "company": "Mercadolibre Inc",
+        "marketValue": "233.69K",
+        "percentPortfolio": "0.1%",
+        "shares": "100.0",
+        "changeSharesPercent": "New Buy",
+        "changeShares": "100.0",
+        "quarterEndPrice": "2.34K",
+        "percentOwned": "0.0%"
+      }
+    ]
   }
 ]
