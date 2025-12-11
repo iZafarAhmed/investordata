@@ -2,7 +2,7 @@
   {
     "url": "https://fiscal.ai/investor/berkshire-hathaway-inc/",
     "timestamp": "2025-12-10T15:02:48.253Z",
-    "investorName": "Berkshire Hathaway Inc",
+    "CompanyName": "Berkshire Hathaway Inc",
     "basicStats": {
       "Market Value": "267.33B",
       "Top 10 (%)": "86.7%",
@@ -193,7 +193,7 @@
   {
     "url": "https://fiscal.ai/investor/daily-journal-corp/",
     "timestamp": "2025-12-10T15:02:51.044Z",
-    "investorName": "Daily Journal Corp",
+    "CompanyName": "Daily Journal Corp",
     "basicStats": {
       "Market Value": "262.25M",
       "Top 10 (%)": "100.0%",
@@ -255,7 +255,7 @@
   {
     "url": "https://fiscal.ai/investor/himalaya-capital-management-llc/",
     "timestamp": "2025-12-10T15:02:53.877Z",
-    "investorName": "Himalaya Capital Management Llc",
+    "CompanyName": "Himalaya Capital Management Llc",
     "basicStats": {
       "Market Value": "3.23B",
       "Top 10 (%)": "100.0%",
@@ -378,7 +378,7 @@
   {
     "url": "https://fiscal.ai/investor/dalal-street-llc/",
     "timestamp": "2025-12-10T15:02:56.741Z",
-    "investorName": "Dalal Street, Llc",
+    "CompanyName": "Dalal Street, Llc",
     "basicStats": {
       "Market Value": "336.86M",
       "Top 10 (%)": "100.0%",
@@ -463,7 +463,7 @@
   {
     "url": "https://fiscal.ai/investor/gotham-asset-management-llc/",
     "timestamp": "2025-12-10T15:02:59.798Z",
-    "investorName": "Gotham Asset Management, Llc",
+    "CompanyName": "Gotham Asset Management, Llc",
     "basicStats": {
       "Market Value": "22.97B",
       "Top 10 (%)": "27.7%",
@@ -654,7 +654,7 @@
   {
     "url": "https://fiscal.ai/investor/oaktree-capital-management-lp/",
     "timestamp": "2025-12-10T15:03:02.926Z",
-    "investorName": "Oaktree Capital Management Lp",
+    "CompanyName": "Oaktree Capital Management Lp",
     "basicStats": {
       "Market Value": "6.74B",
       "Top 10 (%)": "47.9%",
@@ -845,7 +845,7 @@
   {
     "url": "https://fiscal.ai/investor/bridgewater-associates-lp/",
     "timestamp": "2025-12-10T15:03:06.607Z",
-    "investorName": "Bridgewater Associates, Lp",
+    "CompanyName": "Bridgewater Associates, Lp",
     "basicStats": {
       "Market Value": "25.53B",
       "Top 10 (%)": "32.5%",
@@ -1036,7 +1036,7 @@
   {
     "url": "https://fiscal.ai/investor/pershing-square-capital-management-l-p/",
     "timestamp": "2025-12-10T15:03:09.244Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -1044,7 +1044,7 @@
   {
     "url": "https://fiscal.ai/investor/appaloosa-lp/",
     "timestamp": "2025-12-10T15:03:12.712Z",
-    "investorName": "Appaloosa Lp",
+    "CompanyName": "Appaloosa Lp",
     "basicStats": {
       "Market Value": "7.38B",
       "Top 10 (%)": "57.6%",
@@ -1235,7 +1235,7 @@
   {
     "url": "https://fiscal.ai/investor/cas-investment-partners-llc/",
     "timestamp": "2025-12-10T15:03:15.353Z",
-    "investorName": "Cas Investment Partners, Llc",
+    "CompanyName": "Cas Investment Partners, Llc",
     "basicStats": {
       "Market Value": "2.24B",
       "Top 10 (%)": "100.0%",
@@ -1311,7 +1311,7 @@
   {
     "url": "https://fiscal.ai/investor/akre-capital-management-llc/",
     "timestamp": "2025-12-10T15:03:18.119Z",
-    "investorName": "Akre Capital Management Llc",
+    "CompanyName": "Akre Capital Management Llc",
     "basicStats": {
       "Market Value": "10.03B",
       "Top 10 (%)": "93.4%",
@@ -1502,7 +1502,7 @@
   {
     "url": "https://fiscal.ai/investor/scion-asset-management-llc/",
     "timestamp": "2025-12-10T15:03:20.849Z",
-    "investorName": "Scion Asset Management, Llc",
+    "CompanyName": "Scion Asset Management, Llc",
     "basicStats": {
       "Market Value": "1.38B",
       "Top 10 (%)": "100.0%",
@@ -1690,7 +1690,7 @@
   {
     "url": "https://fiscal.ai/investor/semper-augustus-investments-group-llc/",
     "timestamp": "2025-12-10T15:03:23.978Z",
-    "investorName": "Semper Augustus Investments Group Llc",
+    "CompanyName": "Semper Augustus Investments Group Llc",
     "basicStats": {
       "Market Value": "801.17M",
       "Top 10 (%)": "80.6%",
@@ -1881,7 +1881,7 @@
   {
     "url": "https://fiscal.ai/investor/aquamarine-capital-management-llc/",
     "timestamp": "2025-12-10T15:03:27.894Z",
-    "investorName": "Aquamarine Capital Management, Llc",
+    "CompanyName": "Aquamarine Capital Management, Llc",
     "basicStats": {
       "Market Value": "170.23M",
       "Top 10 (%)": "97.4%",
@@ -2050,7 +2050,7 @@
   {
     "url": "https://fiscal.ai/investor/rv-capital-ag/",
     "timestamp": "2025-12-10T15:03:31.172Z",
-    "investorName": "Rv Capital Ag",
+    "CompanyName": "Rv Capital Ag",
     "basicStats": {
       "Market Value": "546.24M",
       "Top 10 (%)": "98.6%",
@@ -2218,7 +2218,7 @@
   {
     "url": "https://fiscal.ai/investor/greenlea-lane-capital-management-llc/",
     "timestamp": "2025-12-10T15:03:34.704Z",
-    "investorName": "Greenlea Lane Capital Management, Llc",
+    "CompanyName": "Greenlea Lane Capital Management, Llc",
     "basicStats": {
       "Market Value": "342.96M",
       "Top 10 (%)": "100.0%",
@@ -2340,7 +2340,7 @@
   {
     "url": "https://fiscal.ai/investor/alta-fox-capital-management-llc/",
     "timestamp": "2025-12-10T15:03:38.463Z",
-    "investorName": "Alta Fox Capital Management, Llc",
+    "CompanyName": "Alta Fox Capital Management, Llc",
     "basicStats": {
       "Market Value": "448.51M",
       "Top 10 (%)": "84.2%",
@@ -2531,7 +2531,7 @@
   {
     "url": "https://fiscal.ai/investor/shawspring-partners-llc/",
     "timestamp": "2025-12-10T15:03:41.769Z",
-    "investorName": "Shawspring Partners Llc",
+    "CompanyName": "Shawspring Partners Llc",
     "basicStats": {
       "Market Value": "672.60M",
       "Top 10 (%)": "96.6%",
@@ -2672,7 +2672,7 @@
   {
     "url": "https://fiscal.ai/investor/van-den-berg-management-i-inc/",
     "timestamp": "2025-12-10T15:03:45.211Z",
-    "investorName": "Van Den Berg Management I, Inc",
+    "CompanyName": "Van Den Berg Management I, Inc",
     "basicStats": {
       "Market Value": "399.16M",
       "Top 10 (%)": "39.5%",
@@ -2863,7 +2863,7 @@
 {
     "url": "https://fiscal.ai/investor/punch-card-management-l.p.",
     "timestamp": "2025-12-10T15:08:57.822Z",
-    "investorName": "Punch Card Management L.p.",
+    "CompanyName": "Punch Card Management L.p.",
     "basicStats": {
       "Market Value": "322.42M",
       "Top 10 (%)": "100.0%",
@@ -2959,7 +2959,7 @@
   {
     "url": "https://fiscal.ai/investor/fundsmith-llp/",
     "timestamp": "2025-12-10T15:09:01.348Z",
-    "investorName": "Fundsmith Llp",
+    "CompanyName": "Fundsmith Llp",
     "basicStats": {
       "Market Value": "19.80B",
       "Top 10 (%)": "67.7%",
@@ -3150,7 +3150,7 @@
   {
     "url": "https://fiscal.ai/investor/tudor-investment-corp-et-al/",
     "timestamp": "2025-12-10T15:09:05.012Z",
-    "investorName": "Tudor Investment Corp Et Al",
+    "CompanyName": "Tudor Investment Corp Et Al",
     "basicStats": {
       "Market Value": "59.18B",
       "Top 10 (%)": "35.6%",
@@ -3341,7 +3341,7 @@
   {
     "url": "https://fiscal.ai/investor/maverick-capital-ltd/",
     "timestamp": "2025-12-10T15:09:08.561Z",
-    "investorName": "Maverick Capital Ltd",
+    "CompanyName": "Maverick Capital Ltd",
     "basicStats": {
       "Market Value": "7.48B",
       "Top 10 (%)": "42.7%",
@@ -3532,7 +3532,7 @@
   {
     "url": "https://fiscal.ai/investor/conifer-management-l-l-c/",
     "timestamp": "2025-12-10T15:09:11.706Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -3540,7 +3540,7 @@
   {
     "url": "https://fiscal.ai/investor/soros-fund-management-llc/",
     "timestamp": "2025-12-10T15:09:15.430Z",
-    "investorName": "Soros Fund Management Llc",
+    "CompanyName": "Soros Fund Management Llc",
     "basicStats": {
       "Market Value": "7.02B",
       "Top 10 (%)": "31.2%",
@@ -3731,7 +3731,7 @@
   {
     "url": "https://fiscal.ai/investor/davis-selected-advisers/",
     "timestamp": "2025-12-10T15:09:18.743Z",
-    "investorName": "Davis Selected Advisers",
+    "CompanyName": "Davis Selected Advisers",
     "basicStats": {
       "Market Value": "19.15B",
       "Top 10 (%)": "50.4%",
@@ -3922,7 +3922,7 @@
   {
     "url": "https://fiscal.ai/investor/renaissance-technologies-llc/",
     "timestamp": "2025-12-10T15:09:22.282Z",
-    "investorName": "Renaissance Technologies Llc",
+    "CompanyName": "Renaissance Technologies Llc",
     "basicStats": {
       "Market Value": "75.75B",
       "Top 10 (%)": "11.5%",
@@ -4113,7 +4113,7 @@
   {
     "url": "https://fiscal.ai/investor/baupost-group-llc-ma/",
     "timestamp": "2025-12-10T15:09:25.659Z",
-    "investorName": "Baupost Group Llc/ma",
+    "CompanyName": "Baupost Group Llc/ma",
     "basicStats": {
       "Market Value": "4.79B",
       "Top 10 (%)": "76.2%",
@@ -4304,7 +4304,7 @@
   {
     "url": "https://fiscal.ai/investor/greenlight-capital-inc/",
     "timestamp": "2025-12-10T15:09:29.101Z",
-    "investorName": "Greenlight Capital Inc",
+    "CompanyName": "Greenlight Capital Inc",
     "basicStats": {
       "Market Value": "2.05B",
       "Top 10 (%)": "77.0%",
@@ -4495,7 +4495,7 @@
   {
     "url": "https://fiscal.ai/investor/miller-value-partners-llc/",
     "timestamp": "2025-12-10T15:09:32.625Z",
-    "investorName": "Miller Value Partners, Llc",
+    "CompanyName": "Miller Value Partners, Llc",
     "basicStats": {
       "Market Value": "272.16M",
       "Top 10 (%)": "57.3%",
@@ -4686,7 +4686,7 @@
   {
     "url": "https://fiscal.ai/investor/bill-&-melinda-gates-foundation-trust/",
     "timestamp": "2025-12-10T15:09:35.779Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -4694,7 +4694,7 @@
   {
     "url": "https://fiscal.ai/investor/duquesne-family-office-llc/",
     "timestamp": "2025-12-10T15:09:40.190Z",
-    "investorName": "Duquesne Family Office Llc",
+    "CompanyName": "Duquesne Family Office Llc",
     "basicStats": {
       "Market Value": "4.06B",
       "Top 10 (%)": "53.9%",
@@ -4885,7 +4885,7 @@
   {
     "url": "https://fiscal.ai/investor/strategy-capital-llc/",
     "timestamp": "2025-12-10T15:09:46.729Z",
-    "investorName": "Strategy Capital Llc",
+    "CompanyName": "Strategy Capital Llc",
     "basicStats": {
       "Market Value": "1.51B",
       "Top 10 (%)": "100.0%",
@@ -5028,7 +5028,7 @@
   {
     "url": "https://fiscal.ai/investor/giverny-capital-inc/",
     "timestamp": "2025-12-10T15:09:50.095Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -5036,7 +5036,7 @@
   {
     "url": "https://fiscal.ai/investor/turtle-creek-asset-management-inc/",
     "timestamp": "2025-12-10T15:09:52.665Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -5044,7 +5044,7 @@
   {
     "url": "https://fiscal.ai/investor/dorsey-asset-management-llc/",
     "timestamp": "2025-12-10T15:09:56.344Z",
-    "investorName": "Dorsey Asset Management, Llc",
+    "CompanyName": "Dorsey Asset Management, Llc",
     "basicStats": {
       "Market Value": "1.11B",
       "Top 10 (%)": "100.0%",
@@ -5189,7 +5189,7 @@
   {
     "url": "https://fiscal.ai/investor/tci-fund-management-ltd/",
     "timestamp": "2025-12-10T15:09:59.488Z",
-    "investorName": "Tci Fund Management Ltd",
+    "CompanyName": "Tci Fund Management Ltd",
     "basicStats": {
       "Market Value": "52.70B",
       "Top 10 (%)": "100.0%",
@@ -5322,7 +5322,7 @@
   {
     "url": "https://fiscal.ai/investor/chou-associates-management-inc/",
     "timestamp": "2025-12-10T15:10:02.580Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -5330,7 +5330,7 @@
   {
     "url": "https://fiscal.ai/investor/abrams-capital-management-l.p.",
     "timestamp": "2025-12-10T15:10:05.811Z",
-    "investorName": "Abrams Capital Management, L.p.",
+    "CompanyName": "Abrams Capital Management, L.p.",
     "basicStats": {
       "Market Value": "6.17B",
       "Top 10 (%)": "99.1%",
@@ -5498,7 +5498,7 @@
 {
     "url": "https://fiscal.ai/investor/markel-group-inc.",
     "timestamp": "2025-12-10T16:48:22.644Z",
-    "investorName": "Markel Group Inc.",
+    "CompanyName": "Markel Group Inc.",
     "basicStats": {
       "Market Value": "12.32B",
       "Top 10 (%)": "40.9%",
@@ -5689,7 +5689,7 @@
   {
     "url": "https://fiscal.ai/investor/fairfax-financial-holdings-ltd-can/",
     "timestamp": "2025-12-10T16:48:25.611Z",
-    "investorName": "Fairfax Financial Holdings Ltd/ Can",
+    "CompanyName": "Fairfax Financial Holdings Ltd/ Can",
     "basicStats": {
       "Market Value": "2.06B",
       "Top 10 (%)": "90.0%",
@@ -5880,7 +5880,7 @@
   {
     "url": "https://fiscal.ai/investor/icahn-carl-c/",
     "timestamp": "2025-12-10T16:48:28.649Z",
-    "investorName": "Icahn Carl C",
+    "CompanyName": "Icahn Carl C",
     "basicStats": {
       "Market Value": "9.14B",
       "Top 10 (%)": "98.5%",
@@ -6060,7 +6060,7 @@
   {
     "url": "https://fiscal.ai/investor/gardner-russo-quinn-llc/",
     "timestamp": "2025-12-10T16:48:31.639Z",
-    "investorName": "Gardner Russo & Quinn Llc",
+    "CompanyName": "Gardner Russo & Quinn Llc",
     "basicStats": {
       "Market Value": "9.33B",
       "Top 10 (%)": "80.3%",
@@ -6251,7 +6251,7 @@
   {
     "url": "https://fiscal.ai/investor/tiger-global-management-llc/",
     "timestamp": "2025-12-10T16:48:34.542Z",
-    "investorName": "Tiger Global Management Llc",
+    "CompanyName": "Tiger Global Management Llc",
     "basicStats": {
       "Market Value": "32.36B",
       "Top 10 (%)": "64.4%",
@@ -6442,7 +6442,7 @@
   {
     "url": "https://fiscal.ai/investor/dodge-cox/",
     "timestamp": "2025-12-10T16:48:37.474Z",
-    "investorName": "Dodge & Cox",
+    "CompanyName": "Dodge & Cox",
     "basicStats": {
       "Market Value": "185.33B",
       "Top 10 (%)": "28.1%",
@@ -6633,7 +6633,7 @@
   {
     "url": "https://fiscal.ai/investor/tweedy-browne-co-llc/",
     "timestamp": "2025-12-10T16:48:40.460Z",
-    "investorName": "Tweedy, Browne Co Llc",
+    "CompanyName": "Tweedy, Browne Co Llc",
     "basicStats": {
       "Market Value": "1.15B",
       "Top 10 (%)": "71.7%",
@@ -6824,7 +6824,7 @@
   {
     "url": "https://fiscal.ai/investor/third-point-llc/",
     "timestamp": "2025-12-10T16:48:43.347Z",
-    "investorName": "Third Point Llc",
+    "CompanyName": "Third Point Llc",
     "basicStats": {
       "Market Value": "8.99B",
       "Top 10 (%)": "52.9%",
@@ -7015,7 +7015,7 @@
   {
     "url": "https://fiscal.ai/investor/fairholme-capital-management-llc/",
     "timestamp": "2025-12-10T16:48:46.169Z",
-    "investorName": "Fairholme Capital Management Llc",
+    "CompanyName": "Fairholme Capital Management Llc",
     "basicStats": {
       "Market Value": "1.24B",
       "Top 10 (%)": "99.9%",
@@ -7169,7 +7169,7 @@
   {
     "url": "https://fiscal.ai/investor/fisher-asset-management-llc/",
     "timestamp": "2025-12-10T16:48:48.979Z",
-    "investorName": "Fisher Asset Management, Llc",
+    "CompanyName": "Fisher Asset Management, Llc",
     "basicStats": {
       "Market Value": "276.29B",
       "Top 10 (%)": "32.4%",
@@ -7360,7 +7360,7 @@
   {
     "url": "https://fiscal.ai/investor/gamco-investors-inc.-et-al",
     "timestamp": "2025-12-10T16:48:51.904Z",
-    "investorName": "Gamco Investors, Inc. Et Al",
+    "CompanyName": "Gamco Investors, Inc. Et Al",
     "basicStats": {
       "Market Value": "10.31B",
       "Top 10 (%)": "15.7%",
@@ -7551,7 +7551,7 @@
   {
     "url": "https://fiscal.ai/investor/southeastern-asset-management-inc-tn-/",
     "timestamp": "2025-12-10T16:48:55.619Z",
-    "investorName": "Southeastern Asset Management Inc/tn/",
+    "CompanyName": "Southeastern Asset Management Inc/tn/",
     "basicStats": {
       "Market Value": "1.96B",
       "Top 10 (%)": "52.0%",
@@ -7742,7 +7742,7 @@
   {
     "url": "https://fiscal.ai/investor/sound-shore-management-inc-ct-/",
     "timestamp": "2025-12-10T16:48:58.504Z",
-    "investorName": "Sound Shore Management Inc /ct/",
+    "CompanyName": "Sound Shore Management Inc /ct/",
     "basicStats": {
       "Market Value": "3.03B",
       "Top 10 (%)": "31.9%",
@@ -7933,7 +7933,7 @@
   {
     "url": "https://fiscal.ai/investor/greenhaven-associates-inc/",
     "timestamp": "2025-12-10T16:49:01.421Z",
-    "investorName": "Greenhaven Associates Inc",
+    "CompanyName": "Greenhaven Associates Inc",
     "basicStats": {
       "Market Value": "6.58B",
       "Top 10 (%)": "90.0%",
@@ -8124,7 +8124,7 @@
   {
     "url": "https://fiscal.ai/investor/wedgewood-partners-inc/",
     "timestamp": "2025-12-10T16:49:04.040Z",
-    "investorName": "Wedgewood Partners Inc",
+    "CompanyName": "Wedgewood Partners Inc",
     "basicStats": {
       "Market Value": "547.90M",
       "Top 10 (%)": "70.7%",
@@ -8315,7 +8315,7 @@
   {
     "url": "https://fiscal.ai/investor/capital-growth-management-lp/",
     "timestamp": "2025-12-10T16:49:07.163Z",
-    "investorName": "Capital Growth Management Lp",
+    "CompanyName": "Capital Growth Management Lp",
     "basicStats": {
       "Market Value": "760.61M",
       "Top 10 (%)": "42.6%",
@@ -8506,7 +8506,7 @@
   {
     "url": "https://fiscal.ai/investor/weitz-investment-management-inc/",
     "timestamp": "2025-12-10T16:49:10.015Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -8514,7 +8514,7 @@
   {
     "url": "https://fiscal.ai/investor/yacktman-asset-management-lp/",
     "timestamp": "2025-12-10T16:49:13.888Z",
-    "investorName": "Yacktman Asset Management Lp",
+    "CompanyName": "Yacktman Asset Management Lp",
     "basicStats": {
       "Market Value": "7.26B",
       "Top 10 (%)": "49.1%",
@@ -8705,7 +8705,7 @@
   {
     "url": "https://fiscal.ai/investor/ariel-investments-llc/",
     "timestamp": "2025-12-10T16:49:17.489Z",
-    "investorName": "Ariel Investments, Llc",
+    "CompanyName": "Ariel Investments, Llc",
     "basicStats": {
       "Market Value": "9.35B",
       "Top 10 (%)": "31.7%",
@@ -8896,7 +8896,7 @@
   {
     "url": "https://fiscal.ai/investor/olstein-capital-management-l.p.",
     "timestamp": "2025-12-10T16:49:21.025Z",
-    "investorName": "Olstein Capital Management, L.p.",
+    "CompanyName": "Olstein Capital Management, L.p.",
     "basicStats": {
       "Market Value": "529.64M",
       "Top 10 (%)": "18.8%",
@@ -9087,7 +9087,7 @@
 {
     "url": "https://fiscal.ai/investor/parnassus-investments-llc/",
     "timestamp": "2025-12-11T02:56:40.988Z",
-    "investorName": "Parnassus Investments, Llc",
+    "CompanyName": "Parnassus Investments, Llc",
     "basicStats": {
       "Market Value": "43.27B",
       "Top 10 (%)": "38.0%",
@@ -9278,7 +9278,7 @@
   {
     "url": "https://fiscal.ai/investor/brandes-investment-partners-lp/",
     "timestamp": "2025-12-11T02:56:44.507Z",
-    "investorName": "Brandes Investment Partners, Lp",
+    "CompanyName": "Brandes Investment Partners, Lp",
     "basicStats": {
       "Market Value": "12.47B",
       "Top 10 (%)": "23.7%",
@@ -9469,7 +9469,7 @@
   {
     "url": "https://fiscal.ai/investor/sands-capital-management-llc/",
     "timestamp": "2025-12-11T02:56:48.544Z",
-    "investorName": "Sands Capital Management, Llc",
+    "CompanyName": "Sands Capital Management, Llc",
     "basicStats": {
       "Market Value": "36.25B",
       "Top 10 (%)": "47.2%",
@@ -9660,7 +9660,7 @@
   {
     "url": "https://fiscal.ai/investor/tiger-management-l.l.c.",
     "timestamp": "2025-12-11T02:56:51.456Z",
-    "investorName": "Tiger Management L.l.c.",
+    "CompanyName": "Tiger Management L.l.c.",
     "basicStats": {
       "Market Value": "22.77M",
       "Top 10 (%)": "100.0%",
@@ -9686,7 +9686,7 @@
   {
     "url": "https://fiscal.ai/investor/pzena-investment-management-llc/",
     "timestamp": "2025-12-11T02:56:54.957Z",
-    "investorName": "Pzena Investment Management Llc",
+    "CompanyName": "Pzena Investment Management Llc",
     "basicStats": {
       "Market Value": "30.94B",
       "Top 10 (%)": "39.2%",
@@ -9877,7 +9877,7 @@
   {
     "url": "https://fiscal.ai/investor/polen-capital-management-llc/",
     "timestamp": "2025-12-11T02:56:58.809Z",
-    "investorName": "Polen Capital Management Llc",
+    "CompanyName": "Polen Capital Management Llc",
     "basicStats": {
       "Market Value": "30.80B",
       "Top 10 (%)": "56.5%",
@@ -10068,7 +10068,7 @@
   {
     "url": "https://fiscal.ai/investor/paulson-&-co-inc.",
     "timestamp": "2025-12-11T02:57:01.807Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -10076,7 +10076,7 @@
   {
     "url": "https://fiscal.ai/investor/kahn-brothers-group-inc/",
     "timestamp": "2025-12-11T02:57:05.519Z",
-    "investorName": "Kahn Brothers Group Inc",
+    "CompanyName": "Kahn Brothers Group Inc",
     "basicStats": {
       "Market Value": "531.80M",
       "Top 10 (%)": "81.6%",
@@ -10267,7 +10267,7 @@
   {
     "url": "https://fiscal.ai/investor/lone-pine-capital-llc/",
     "timestamp": "2025-12-11T02:57:08.683Z",
-    "investorName": "Lone Pine Capital Llc",
+    "CompanyName": "Lone Pine Capital Llc",
     "basicStats": {
       "Market Value": "13.74B",
       "Top 10 (%)": "55.6%",
@@ -10458,7 +10458,7 @@
   {
     "url": "https://fiscal.ai/investor/atlantic-investment-management-inc.",
     "timestamp": "2025-12-11T02:57:11.814Z",
-    "investorName": "Atlantic Investment Management, Inc.",
+    "CompanyName": "Atlantic Investment Management, Inc.",
     "basicStats": {
       "Market Value": "174.14M",
       "Top 10 (%)": "97.8%",
@@ -10649,7 +10649,7 @@
   {
     "url": "https://fiscal.ai/investor/mairs-&-power-inc/",
     "timestamp": "2025-12-11T02:57:16.230Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -10657,7 +10657,7 @@
   {
     "url": "https://fiscal.ai/investor/viking-global-investors-lp/",
     "timestamp": "2025-12-11T02:57:19.916Z",
-    "investorName": "Viking Global Investors Lp",
+    "CompanyName": "Viking Global Investors Lp",
     "basicStats": {
       "Market Value": "38.50B",
       "Top 10 (%)": "33.6%",
@@ -10848,7 +10848,7 @@
   {
     "url": "https://fiscal.ai/investor/msd-capital-l-p/",
     "timestamp": "2025-12-11T02:57:22.775Z",
-    "investorName": "Msd Capital L P",
+    "CompanyName": "Msd Capital L P",
     "basicStats": {
       "Market Value": "103.65M",
       "Top 10 (%)": "100.0%",
@@ -10900,7 +10900,7 @@
   {
     "url": "https://fiscal.ai/investor/auxier-asset-management/",
     "timestamp": "2025-12-11T02:57:25.824Z",
-    "investorName": "Auxier Asset Management",
+    "CompanyName": "Auxier Asset Management",
     "basicStats": {
       "Market Value": "713.51M",
       "Top 10 (%)": "33.8%",
@@ -11091,7 +11091,7 @@
   {
     "url": "https://fiscal.ai/investor/jensen-investment-management-inc/",
     "timestamp": "2025-12-11T02:57:28.955Z",
-    "investorName": "Jensen Investment Management Inc",
+    "CompanyName": "Jensen Investment Management Inc",
     "basicStats": {
       "Market Value": "8.06B",
       "Top 10 (%)": "56.1%",
@@ -11282,7 +11282,7 @@
   {
     "url": "https://fiscal.ai/investor/joho-capital-llc/",
     "timestamp": "2025-12-11T02:57:31.940Z",
-    "investorName": "Joho Capital Llc",
+    "CompanyName": "Joho Capital Llc",
     "basicStats": {
       "Market Value": "562.99M",
       "Top 10 (%)": "100.0%",
@@ -11428,7 +11428,7 @@
   {
     "url": "https://fiscal.ai/investor/coatue-management-llc/",
     "timestamp": "2025-12-11T02:57:34.978Z",
-    "investorName": "Coatue Management Llc",
+    "CompanyName": "Coatue Management Llc",
     "basicStats": {
       "Market Value": "40.79B",
       "Top 10 (%)": "51.4%",
@@ -11619,7 +11619,7 @@
   {
     "url": "https://fiscal.ai/investor/jana-partners-llc/",
     "timestamp": "2025-12-11T02:57:38.751Z",
-    "investorName": "Jana Partners Llc",
+    "CompanyName": "Jana Partners Llc",
     "basicStats": {
       "Market Value": "1.34B",
       "Top 10 (%)": "100.0%",
@@ -11753,7 +11753,7 @@
   {
     "url": "https://fiscal.ai/investor/causeway-capital-management-llc/",
     "timestamp": "2025-12-11T02:57:42.209Z",
-    "investorName": "Causeway Capital Management Llc",
+    "CompanyName": "Causeway Capital Management Llc",
     "basicStats": {
       "Market Value": "7.57B",
       "Top 10 (%)": "59.0%",
@@ -11944,7 +11944,7 @@
   {
     "url": "https://fiscal.ai/investor/hussman-strategic-advisors-inc.",
     "timestamp": "2025-12-11T02:57:44.868Z",
-    "investorName": "Hussman Strategic Advisors, Inc.",
+    "CompanyName": "Hussman Strategic Advisors, Inc.",
     "basicStats": {
       "Market Value": "461.77M",
       "Top 10 (%)": "10.1%",
@@ -12135,7 +12135,7 @@
 {
     "url": "https://fiscal.ai/investor/diamond-hill-capital-management-inc/",
     "timestamp": "2025-12-11T03:04:45.728Z",
-    "investorName": "Diamond Hill Capital Management Inc",
+    "CompanyName": "Diamond Hill Capital Management Inc",
     "basicStats": {
       "Market Value": "21.06B",
       "Top 10 (%)": "30.7%",
@@ -12326,7 +12326,7 @@
   {
     "url": "https://fiscal.ai/investor/cantillon-capital-management-llc/",
     "timestamp": "2025-12-11T03:04:48.702Z",
-    "investorName": "Cantillon Capital Management Llc",
+    "CompanyName": "Cantillon Capital Management Llc",
     "basicStats": {
       "Market Value": "18.16B",
       "Top 10 (%)": "45.6%",
@@ -12517,7 +12517,7 @@
   {
     "url": "https://fiscal.ai/investor/hillman-capital-management-inc.",
     "timestamp": "2025-12-11T03:04:51.546Z",
-    "investorName": "Hillman Capital Management, Inc.",
+    "CompanyName": "Hillman Capital Management, Inc.",
     "basicStats": {
       "Market Value": "171.85M",
       "Top 10 (%)": "35.0%",
@@ -12708,7 +12708,7 @@
   {
     "url": "https://fiscal.ai/investor/generation-investment-management-llp/",
     "timestamp": "2025-12-11T03:04:54.532Z",
-    "investorName": "Generation Investment Management Llp",
+    "CompanyName": "Generation Investment Management Llp",
     "basicStats": {
       "Market Value": "15.10B",
       "Top 10 (%)": "68.3%",
@@ -12899,7 +12899,7 @@
   {
     "url": "https://fiscal.ai/investor/ako-capital-llp/",
     "timestamp": "2025-12-11T03:04:57.945Z",
-    "investorName": "Ako Capital Llp",
+    "CompanyName": "Ako Capital Llp",
     "basicStats": {
       "Market Value": "7.03B",
       "Top 10 (%)": "68.5%",
@@ -13090,7 +13090,7 @@
   {
     "url": "https://fiscal.ai/investor/smead-capital-management-inc.",
     "timestamp": "2025-12-11T03:05:00.746Z",
-    "investorName": "Smead Capital Management, Inc.",
+    "CompanyName": "Smead Capital Management, Inc.",
     "basicStats": {
       "Market Value": "5.18B",
       "Top 10 (%)": "52.1%",
@@ -13281,7 +13281,7 @@
   {
     "url": "https://fiscal.ai/investor/moore-capital-management-lp/",
     "timestamp": "2025-12-11T03:05:03.662Z",
-    "investorName": "Moore Capital Management, Lp",
+    "CompanyName": "Moore Capital Management, Lp",
     "basicStats": {
       "Market Value": "7.27B",
       "Top 10 (%)": "27.5%",
@@ -13472,7 +13472,7 @@
   {
     "url": "https://fiscal.ai/investor/lindsell-train-ltd/",
     "timestamp": "2025-12-11T03:05:06.632Z",
-    "investorName": "Lindsell Train Ltd",
+    "CompanyName": "Lindsell Train Ltd",
     "basicStats": {
       "Market Value": "4.08B",
       "Top 10 (%)": "94.7%",
@@ -13663,7 +13663,7 @@
   {
     "url": "https://fiscal.ai/investor/greenbrier-partners-capital-management-llc/",
     "timestamp": "2025-12-11T03:05:09.516Z",
-    "investorName": "Greenbrier Partners Capital Management, Llc",
+    "CompanyName": "Greenbrier Partners Capital Management, Llc",
     "basicStats": {
       "Market Value": "1.48B",
       "Top 10 (%)": "95.7%",
@@ -13832,7 +13832,7 @@
   {
     "url": "https://fiscal.ai/investor/brave-warrior-advisors-llc/",
     "timestamp": "2025-12-11T03:05:12.521Z",
-    "investorName": "Brave Warrior Advisors, Llc",
+    "CompanyName": "Brave Warrior Advisors, Llc",
     "basicStats": {
       "Market Value": "4.31B",
       "Top 10 (%)": "76.8%",
@@ -14023,7 +14023,7 @@
   {
     "url": "https://fiscal.ai/investor/engaged-capital-llc/",
     "timestamp": "2025-12-11T03:05:15.502Z",
-    "investorName": "Engaged Capital Llc",
+    "CompanyName": "Engaged Capital Llc",
     "basicStats": {
       "Market Value": "407.63M",
       "Top 10 (%)": "100.0%",
@@ -14147,7 +14147,7 @@
   {
     "url": "https://fiscal.ai/investor/private-capital-management-llc/",
     "timestamp": "2025-12-11T03:05:18.474Z",
-    "investorName": "Private Capital Management, Llc",
+    "CompanyName": "Private Capital Management, Llc",
     "basicStats": {
       "Market Value": "1.12B",
       "Top 10 (%)": "42.2%",
@@ -14338,7 +14338,7 @@
   {
     "url": "https://fiscal.ai/investor/point72-asset-management-l.p.",
     "timestamp": "2025-12-11T03:05:21.332Z",
-    "investorName": "Point72 Asset Management, L.p.",
+    "CompanyName": "Point72 Asset Management, L.p.",
     "basicStats": {
       "Market Value": "59.76B",
       "Top 10 (%)": "20.3%",
@@ -14529,7 +14529,7 @@
   {
     "url": "https://fiscal.ai/investor/altarock-partners-llc/",
     "timestamp": "2025-12-11T03:05:24.333Z",
-    "investorName": "Altarock Partners Llc",
+    "CompanyName": "Altarock Partners Llc",
     "basicStats": {
       "Market Value": "5.47B",
       "Top 10 (%)": "100.0%",
@@ -14651,7 +14651,7 @@
   {
     "url": "https://fiscal.ai/investor/oakcliff-capital-partners-lp/",
     "timestamp": "2025-12-11T03:05:27.050Z",
-    "investorName": "Oakcliff Capital Partners, Lp",
+    "CompanyName": "Oakcliff Capital Partners, Lp",
     "basicStats": {
       "Market Value": "231.69M",
       "Top 10 (%)": "100.0%",
@@ -14763,7 +14763,7 @@
   {
     "url": "https://fiscal.ai/investor/valley-forge-capital-management-lp/",
     "timestamp": "2025-12-11T03:05:29.992Z",
-    "investorName": "Valley Forge Capital Management, Lp",
+    "CompanyName": "Valley Forge Capital Management, Lp",
     "basicStats": {
       "Market Value": "4.16B",
       "Top 10 (%)": "100.0%",
@@ -14882,7 +14882,7 @@
   {
     "url": "https://fiscal.ai/investor/g-capital-management-llc/",
     "timestamp": "2025-12-11T03:05:33.737Z",
-    "investorName": "Sorry, Page Not Found",
+    "CompanyName": "Sorry, Page Not Found",
     "basicStats": {},
     "industryBreakdown": {},
     "holdings": []
@@ -14890,7 +14890,7 @@
   {
     "url": "https://fiscal.ai/investor/ruane-cunniff-goldfarb-l.p.",
     "timestamp": "2025-12-11T03:05:37.248Z",
-    "investorName": "Ruane, Cunniff & Goldfarb L.p.",
+    "CompanyName": "Ruane, Cunniff & Goldfarb L.p.",
     "basicStats": {
       "Market Value": "6.04B",
       "Top 10 (%)": "75.5%",
@@ -15081,7 +15081,7 @@
   {
     "url": "https://fiscal.ai/investor/adw-capital-management-llc/",
     "timestamp": "2025-12-11T03:05:40.813Z",
-    "investorName": "Adw Capital Management, Llc",
+    "CompanyName": "Adw Capital Management, Llc",
     "basicStats": {
       "Market Value": "174.93M",
       "Top 10 (%)": "100.0%",
@@ -15190,7 +15190,7 @@
   {
     "url": "https://fiscal.ai/investor/ensemble-capital-management-llc/",
     "timestamp": "2025-12-11T03:05:46.479Z",
-    "investorName": "Ensemble Capital Management, Llc",
+    "CompanyName": "Ensemble Capital Management, Llc",
     "basicStats": {
       "Market Value": "1.18B",
       "Top 10 (%)": "66.5%",
@@ -15381,7 +15381,7 @@
   {
     "url": "https://fiscal.ai/investor/egerton-capital-(uk)-llp/",
     "timestamp": "2025-12-11T09:45:51.917Z",
-    "investorName": "Egerton Capital",
+    "CompanyName": "Egerton Capital",
     "basicStats": {
       "Market Value": "9.48B",
       "Top 10 (%)": "65.8%",
@@ -15572,7 +15572,7 @@
   {
     "url": "https://fiscal.ai/investor/bill-melinda-gates-foundation-trust/",
     "timestamp": "2025-12-11T09:45:55.383Z",
-    "investorName": "Bill & Melinda Gates Foundation Trust",
+    "CompanyName": "Bill & Melinda Gates Foundation Trust",
     "basicStats": {
       "Market Value": "36.58B",
       "Top 10 (%)": "95.7%",
@@ -15763,7 +15763,7 @@
   {
     "url": "https://fiscal.ai/investor/giverny-capital-inc./",
     "timestamp": "2025-12-11T09:45:58.838Z",
-    "investorName": "Giverny Capital Inc.",
+    "CompanyName": "Giverny Capital Inc.",
     "basicStats": {
       "Market Value": "2.95B",
       "Top 10 (%)": "57.6%",
@@ -15954,7 +15954,7 @@
   {
     "url": "https://fiscal.ai/investor/turtle-creek-asset-management-inc./",
     "timestamp": "2025-12-11T09:46:01.636Z",
-    "investorName": "Turtle Creek Asset Management Inc.",
+    "CompanyName": "Turtle Creek Asset Management Inc.",
     "basicStats": {
       "Market Value": "3.31B",
       "Top 10 (%)": "54.0%",
@@ -16145,7 +16145,7 @@
   {
     "url": "https://fiscal.ai/investor/chou-associates-management-inc./",
     "timestamp": "2025-12-11T09:46:04.611Z",
-    "investorName": "Chou Associates Management Inc.",
+    "CompanyName": "Chou Associates Management Inc.",
     "basicStats": {
       "Market Value": "207.74M",
       "Top 10 (%)": "85.6%",
@@ -16336,7 +16336,7 @@
   {
     "url": "https://fiscal.ai/investor/weitz-investment-management-inc./",
     "timestamp": "2025-12-11T09:46:07.348Z",
-    "investorName": "Weitz Investment Management, Inc.",
+    "CompanyName": "Weitz Investment Management, Inc.",
     "basicStats": {
       "Market Value": "1.84B",
       "Top 10 (%)": "49.5%",
@@ -16527,7 +16527,7 @@
   {
     "url": "https://fiscal.ai/investor/paulson-co.-inc.",
     "timestamp": "2025-12-11T09:46:10.268Z",
-    "investorName": "Paulson & Co. Inc.",
+    "CompanyName": "Paulson & Co. Inc.",
     "basicStats": {
       "Market Value": "2.97B",
       "Top 10 (%)": "100.0%",
@@ -16713,7 +16713,7 @@
   {
     "url": "https://fiscal.ai/investor/mairs-power-inc/",
     "timestamp": "2025-12-11T09:46:13.100Z",
-    "investorName": "Mairs & Power Inc",
+    "CompanyName": "Mairs & Power Inc",
     "basicStats": {
       "Market Value": "10.64B",
       "Top 10 (%)": "47.0%",
@@ -16904,7 +16904,7 @@
   {
     "url": "https://fiscal.ai/investor/7g-capital-management-llc/",
     "timestamp": "2025-12-11T09:46:15.989Z",
-    "investorName": "7g Capital Management, Llc",
+    "CompanyName": "7g Capital Management, Llc",
     "basicStats": {
       "Market Value": "156.00M",
       "Top 10 (%)": "100.0%",
